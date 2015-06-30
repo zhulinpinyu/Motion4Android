@@ -11,4 +11,7 @@ end
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'ListThings'
+  app.icon = "icon"
+  app.api_version = "15"
+  app.target_api_version = "15"
 end
