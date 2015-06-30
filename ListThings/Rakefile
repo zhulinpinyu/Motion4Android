@@ -12,6 +12,11 @@ Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'ListThings'
   app.icon = "icon"
-  app.api_version = "15"
-  app.target_api_version = "15"
+
+  app.main_activity = 'MainActivity'
+  app.sub_activities += %w(BaikeActivity)
+  app.permissions = 'android.permission.INTERNET'
+
+  app.api_version = "16"
+  app.target_api_version = "16"
 end
