@@ -7,11 +7,9 @@ class MainActivity < Android::App::Activity
     layout.backgroundColor = Android::Graphics::Color.parseColor("#FF0099CC")
 
     @temperature = text_label
-    @weather = text_label
     @wind = text_label
 
     layout.addView(@temperature)
-    layout.addView(@weather)
     layout.addView(@wind)
 
     fetch_weather
@@ -20,7 +18,7 @@ class MainActivity < Android::App::Activity
   end
 
   def fetch_weather
-    url = "http://wthrcdn.etouch.cn/weather_mini?city=%E6%B7%B1%E5%9C%B3"
+    url = "http://www.bom.gov.au/fwo/IDN60901/IDN60901.94768.json"
     listenter = RequestListener.new(self)
     # 0 代表的是GET请求
     req = Com::Android::Volley::Toolbox::JsonObjectRequest.new(0, url, nil, listenter, nil)
@@ -41,7 +39,6 @@ class MainActivity < Android::App::Activity
 
   def update_display(weather)
     @temperature.text = "温度: #{weather.temperature}摄氏度"
-    @weather.text = "天气: #{weather.type}"
     @wind.text = "风向: #{weather.wind}"
   end
 end

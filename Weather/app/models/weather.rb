@@ -1,15 +1,14 @@
 class Weather
-  attr_reader :data, :type, :temperature, :wind
+  attr_reader :data, :temperature, :wind
 
   def initialize(json)
-    @data = json.getJSONObject("data")
-    @type = latest_data.getString("type")
-    @temperature = "#{latest_data.getString("low")},#{latest_data.getString("high")}"
-    @wind = latest_data.getString("fengli")
+    @data = json.getJSONObject("observations")
+    @temperature =latest_data.getString("air_temp")
+    @wind = latest_data.getString("wind_spd_kmh")
   end
 
   private
     def latest_data
-      @latest_data ||= data.getJSONArray("forecast").getJSONObject(0)
+      @latest_data ||= data.getJSONArray("data").getJSONObject(0)
     end
 end
