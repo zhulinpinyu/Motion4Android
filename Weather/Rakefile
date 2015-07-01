@@ -11,4 +11,11 @@ end
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'Weather'
+
+  app.package = "com.zlpy.weather"
+  app.permissions = [:internet]
+  app.vendor_project jar: "vendor/volley-1.0.9.jar"
+  app.api_version = "16"
+  app.target_api_version = "16"
+
 end
