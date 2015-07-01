@@ -1,5 +1,5 @@
 class BaikeActivity < Android::App::Activity
-  SelectedThing = 'com.company.things.selected_thing'
+  SelectedThing = 'SelectedThing'
 
   def onCreate(savedInstanceState)
     super

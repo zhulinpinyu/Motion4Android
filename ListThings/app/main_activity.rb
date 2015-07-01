@@ -14,7 +14,6 @@ class MainActivity < Android::App::Activity
 
   def onItemClick(parent, view, position, id)
     selected_item = Things.all[position]
-    p "Clicked #{selected_item}"
     intent = Android::Content::Intent.new(self, BaikeActivity)
     intent.putExtra(BaikeActivity::SelectedThing, selected_item)
     startActivity(intent)
