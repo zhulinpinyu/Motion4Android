@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout
   xmlns:android="http://schemas.android.com/apk/res/android"
   xmlns:tools="http://schemas.android.com/tools"
@@ -10,7 +11,13 @@
     android:id="@+id/q_text"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:padding="24dp"
+    android:textSize="36dp"
     android:text="@string/lg"/>
+
+  <Button
+    android:id="@+id/go_button"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:text="Go"/>
 
 </LinearLayout>
