@@ -11,4 +11,9 @@ end
 Motion::Project::App.setup do |app|
   # Use `rake config' to see complete project settings.
   app.name = 'Quiz'
+  app.api_version = "16"
+  app.package = 'com.zlpy.quiz'
+  app.main_activity = 'HomeActivity'
+  app.sub_activities = ['CheatActivity']
+  app.theme = '@android:style/Theme.Holo.Light'
 end
