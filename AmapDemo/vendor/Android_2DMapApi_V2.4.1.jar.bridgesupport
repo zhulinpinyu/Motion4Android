@@ -1,0 +1,2799 @@
+<?xml version='1.0'?>
+<signatures version='1.0'>
+<class name="com/amap/api/mapcore2d/a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/aa" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ab" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ac$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/ac" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ak;)V"/>
+<method name="b" type="(Ljava/lang/String;)Z"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ad" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="&lt;init&gt;" type="(II)V"/>
+<method name="&lt;init&gt;" type="(DDZ)V"/>
+<method name="a" type="(D)V"/>
+<method name="b" type="(D)V"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+<method name="a" type="()I"/>
+<method name="b" type="()I"/>
+<method name="c" type="()J"/>
+<method name="d" type="()J"/>
+<method name="e" type="()D"/>
+<method name="f" type="()D"/>
+<method name="g" type="()Lcom/amap/api/mapcore2d/ad;"/>
+</class>
+<class name="com/amap/api/mapcore2d/al" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="&lt;init&gt;" type="(II)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ap$a" super="java/lang/Enum">
+<method name="values" type="()[Lcom/amap/api/mapcore2d/ap$a;" class_method="true"/>
+<method name="valueOf" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/ap$a;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/as" super="com/amap/api/mapcore2d/bs">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/n$a;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/n$a;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/at" super="com/amap/api/mapcore2d/au">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="a" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/au" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/av" super="android/widget/LinearLayout">
+<method name="a" type="()V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/ba;Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(Z)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/av;)Z" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/av;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/av;)Landroid/widget/ImageView;" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/av;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/av;)Lcom/amap/api/mapcore2d/af;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/aw" super="com/amap/api/mapcore2d/et">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/ax;"/>
+<method name="b" type="()Ljava/util/Map;"/>
+<method name="c" type="()Ljava/util/Map;"/>
+<method name="d" type="()Ljava/lang/String;"/>
+<method name="e" type="()Lorg/apache/http/HttpEntity;"/>
+</class>
+<class name="com/amap/api/mapcore2d/ax" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(ZZ)V"/>
+<method name="a" type="()Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/ay$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/b$1" super="com/amap/api/mapcore2d/cf">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="a" type="(III)Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/b$2" super="com/amap/api/mapcore2d/cf">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="a" type="(III)Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/b$a" super="java/lang/Object">
+<method name="a" type="(IIII)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ba" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bb" super="android/view/View">
+<method name="a" type="()Lcom/amap/api/mapcore2d/b;"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Landroid/util/AttributeSet;Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="a" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/aj;"/>
+<method name="b" type="()I"/>
+<method name="c" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/aj;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/aj;)Z"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/aj;)V"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/aj;)V"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/aj;)V"/>
+<method name="f" type="(Lcom/amap/api/mapcore2d/aj;)Z"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="d" type="()Lcom/amap/api/mapcore2d/aj;"/>
+<method name="a" type="(Landroid/view/MotionEvent;)Lcom/amap/api/mapcore2d/aj;"/>
+<method name="e" type="()V"/>
+<method name="b" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="f" type="()Ljava/util/List;"/>
+<method name="a" type="(Landroid/graphics/Rect;II)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/bc$a" super="android/view/ViewGroup$LayoutParams">
+<method name="&lt;init&gt;" type="(IILcom/amap/api/maps2d/model/LatLng;III)V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Landroid/util/AttributeSet;)V"/>
+<method name="&lt;init&gt;" type="(Landroid/view/ViewGroup$LayoutParams;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bc" super="android/view/ViewGroup">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="onLayout" type="(ZIIII)V"/>
+<method name="a" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bd$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bd" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh$d;)V"/>
+<method name="a" type="()V"/>
+<method name="a" type="(Landroid/graphics/Point;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;)Lcom/amap/api/mapcore2d/ad;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;Lcom/amap/api/mapcore2d/ad;Landroid/graphics/Point;D)Landroid/graphics/PointF;"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ad;)Lcom/amap/api/mapcore2d/ad;"/>
+<method name="a" type="(Landroid/graphics/PointF;Lcom/amap/api/mapcore2d/ad;Landroid/graphics/Point;DLcom/amap/api/mapcore2d/bd$a;)Lcom/amap/api/mapcore2d/ad;"/>
+<method name="b" type="(Landroid/graphics/PointF;Lcom/amap/api/mapcore2d/ad;Landroid/graphics/Point;DLcom/amap/api/mapcore2d/bd$a;)Lcom/amap/api/mapcore2d/ad;"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ad;Lcom/amap/api/mapcore2d/ad;Landroid/graphics/Point;D)Landroid/graphics/PointF;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;III)Ljava/util/ArrayList;"/>
+<method name="a" type="(IIIILandroid/graphics/PointF;II)Landroid/graphics/PointF;"/>
+<method name="a" type="(Landroid/graphics/PointF;Landroid/graphics/PointF;I)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;Lcom/amap/api/mapcore2d/ad;)F"/>
+</class>
+<class name="com/amap/api/mapcore2d/be" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;Landroid/content/Context;)V"/>
+<method name="a" type="()V"/>
+<method name="c" type="()V"/>
+<method name="b" type="()V"/>
+<method name="g" type="()V"/>
+<method name="h" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bf" super="java/lang/Object">
+<method name="a" type="()Lcom/amap/api/mapcore2d/bf;" class_method="true"/>
+<method name="b" type="()Ljava/lang/String;"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="d" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/bg$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/bg$a" super="java/lang/Thread">
+<method name="run" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bg;Lcom/amap/api/mapcore2d/bg$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bh$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/bh$a$1" super="com/amap/api/mapcore2d/cf">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh$a;)V"/>
+<method name="a" type="(III)Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/bh$a" super="java/lang/Object">
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="a" type="(Ljava/lang/String;Z)Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/at;Landroid/content/Context;)Z"/>
+<method name="b" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/at;"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="a" type="(Z)V"/>
+<method name="a" type="(Landroid/graphics/Canvas;Landroid/graphics/Matrix;FF)V"/>
+<method name="b" type="(Z)V"/>
+<method name="a" type="(ILandroid/view/KeyEvent;)Z"/>
+<method name="b" type="(ILandroid/view/KeyEvent;)Z"/>
+<method name="a" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="b" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;Landroid/content/Context;Lcom/amap/api/mapcore2d/bh$1;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bh$a;)Z" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bh$b" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;)V"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()V"/>
+<method name="d" type="()V"/>
+<method name="e" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bh$c" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;Lcom/amap/api/mapcore2d/bh;Landroid/content/Context;Lcom/amap/api/mapcore2d/bh$1;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bh$c;)Landroid/util/SparseArray;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bh$d" super="java/lang/Object">
+<method name="a" type="(I)V"/>
+<method name="a" type="(II)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ad;)V"/>
+<method name="a" type="()I"/>
+<method name="b" type="(I)V"/>
+<method name="b" type="()I"/>
+<method name="c" type="(I)V"/>
+<method name="c" type="()I"/>
+<method name="d" type="()I"/>
+<method name="e" type="()I"/>
+<method name="f" type="()Lcom/amap/api/mapcore2d/ad;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cg;)V"/>
+<method name="a" type="(ZZ)V"/>
+<method name="g" type="()Lcom/amap/api/mapcore2d/b;"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;Lcom/amap/api/mapcore2d/b;Lcom/amap/api/mapcore2d/bh$1;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bh$d;)Lcom/amap/api/mapcore2d/b;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bh" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="a" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()V"/>
+<method name="a" type="(Z)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bi$a" super="com/amap/api/mapcore2d/bi">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/view/MotionEvent;II)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/bi" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/bi$b;)Lcom/amap/api/mapcore2d/bi$a;" class_method="true"/>
+<method name="a" type="(Landroid/view/MotionEvent;)V" class_method="true"/>
+<method name="a" type="()Z" class_method="true"/>
+<method name="b" type="()Ljava/lang/reflect/Method;" class_method="true"/>
+<method name="c" type="()Ljava/lang/reflect/Method;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bj" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/MyLocationStyle;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;D)V"/>
+<method name="a" type="()V"/>
+<method name="a" type="(F)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bk" super="java/lang/Object">
+<method name="a" type="(Landroid/content/Context;Ljava/lang/String;)Landroid/graphics/drawable/Drawable;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bp" super="com/amap/api/mapcore2d/et">
+<method name="&lt;init&gt;" type="(Ljava/lang/Object;)V"/>
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="([B)Ljava/lang/Object;"/>
+<method name="a" type="()Ljava/lang/Object;"/>
+<method name="f" type="()Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/bq" super="android/view/View">
+<method name="a" type="()V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="onDraw" type="(Landroid/graphics/Canvas;)V"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="a" type="(I)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/br" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/br;" class_method="true"/>
+<method name="b" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/br$a;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/br$a;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bt" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()V"/>
+<method name="a" type="(Ljava/util/List;Z)V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()V"/>
+<method name="a" type="(IZ)Ljava/util/ArrayList;"/>
+<method name="b" type="(IZ)Ljava/util/ArrayList;"/>
+</class>
+<class name="com/amap/api/mapcore2d/bu" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(ILjava/lang/Runnable;Ljava/lang/Runnable;)V"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bv" super="com/amap/api/mapcore2d/bt">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="b" type="(IZ)Ljava/util/ArrayList;"/>
+</class>
+<class name="com/amap/api/mapcore2d/bw$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/bw$b" super="com/amap/api/mapcore2d/cl">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bw;Z)V"/>
+<method name="a" type="([Lcom/amap/api/mapcore2d/af;)Ljava/util/List;"/>
+<method name="a" type="(Ljava/util/List;)V"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="a" type="([Ljava/lang/Object;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/bx$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/bx" super="android/view/View">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/af;"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="b" type="()Z"/>
+<method name="c" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/aq;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/aq;)Z"/>
+<method name="a" type="(Z)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bz" super="com/amap/api/mapcore2d/bp">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Ljava/util/ArrayList;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/at;)V"/>
+<method name="g" type="()Ljava/util/ArrayList;"/>
+<method name="b" type="([B)Ljava/util/ArrayList;"/>
+<method name="a" type="([BLcom/amap/api/mapcore2d/n$a;)I"/>
+<method name="b" type="()Ljava/util/Map;"/>
+<method name="c" type="()Ljava/util/Map;"/>
+<method name="d" type="()Ljava/lang/String;"/>
+<method name="e" type="()Lorg/apache/http/HttpEntity;"/>
+<method name="f" type="()Ljava/lang/Object;"/>
+<method name="a" type="([B)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/c" super="java/util/TimerTask">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ca" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Ljava/util/List;"/>
+<method name="b" type="()I"/>
+</class>
+<class name="com/amap/api/mapcore2d/cb" super="com/amap/api/mapcore2d/h">
+<method name="&lt;init&gt;" type="(IILcom/amap/api/mapcore2d/ad;Lcom/amap/api/mapcore2d/ad;ILcom/amap/api/mapcore2d/cc;)V"/>
+<method name="b" type="()V"/>
+<method name="a" type="()V"/>
+<method name="f" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ce" super="android/os/Handler">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cd;)V"/>
+<method name="handleMessage" type="(Landroid/os/Message;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cf" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(III)Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/ch" super="android/view/View">
+<method name="a" type="()V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="b" type="()Landroid/graphics/Bitmap;"/>
+<method name="a" type="(Z)V"/>
+<method name="c" type="()Landroid/graphics/Point;"/>
+<method name="a" type="(I)V"/>
+<method name="onDraw" type="(Landroid/graphics/Canvas;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ci" super="android/widget/LinearLayout">
+<method name="a" type="()V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/ay;Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(I)V"/>
+<method name="b" type="()I"/>
+<method name="a" type="(F)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/widget/ImageView;" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/ci;)Lcom/amap/api/mapcore2d/af;" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/widget/ImageView;" class_method="true"/>
+<method name="f" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="g" type="(Lcom/amap/api/mapcore2d/ci;)Lcom/amap/api/mapcore2d/ay;" class_method="true"/>
+<method name="h" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="i" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="j" type="(Lcom/amap/api/mapcore2d/ci;)Landroid/graphics/Bitmap;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cj" super="com/amap/api/mapcore2d/h">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;Landroid/view/animation/Animation$AnimationListener;)V"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="a" type="(FIZFF)V"/>
+<method name="a" type="(IZFF)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ck" super="java/lang/Object">
+<method name="a" type="(Ljava/lang/Object;)Ljava/lang/Object;" class_method="true"/>
+<method name="a" type="(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;" class_method="true"/>
+<method name="a" type="(ZLjava/lang/Object;)V" class_method="true"/>
+<method name="b" type="(ZLjava/lang/Object;)V" class_method="true"/>
+<method name="a" type="(ZLjava/lang/String;[Ljava/lang/Object;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$1" super="com/amap/api/mapcore2d/cl$e">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cl;)V"/>
+<method name="call" type="()Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$2" super="java/util/concurrent/FutureTask">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cl;Ljava/util/concurrent/Callable;)V"/>
+<method name="done" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$3" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/cl$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cl;[Ljava/lang/Object;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$b" super="android/os/Handler">
+<method name="handleMessage" type="(Landroid/os/Message;)V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cm;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$d" super="java/lang/Enum">
+<method name="values" type="()[Lcom/amap/api/mapcore2d/cl$d;" class_method="true"/>
+<method name="valueOf" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/cl$d;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/cl$d;"/>
+<method name="a" type="([Ljava/lang/Object;)Ljava/lang/Object;"/>
+<method name="b" type="()V"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="b" type="([Ljava/lang/Object;)V"/>
+<method name="b" type="(Ljava/lang/Object;)V"/>
+<method name="c" type="()Z"/>
+<method name="a" type="(Z)Z"/>
+<method name="c" type="([Ljava/lang/Object;)Lcom/amap/api/mapcore2d/cl;"/>
+<method name="a" type="(Ljava/util/concurrent/Executor;[Ljava/lang/Object;)Lcom/amap/api/mapcore2d/cl;"/>
+<method name="d" type="()Ljava/util/concurrent/Executor;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cl;)Ljava/util/concurrent/atomic/AtomicBoolean;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cl;Ljava/lang/Object;)Ljava/lang/Object;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/cl;)Ljava/util/concurrent/FutureTask;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/cl;Ljava/lang/Object;)V" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/cl;Ljava/lang/Object;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cn$1" super="com/amap/api/mapcore2d/cs">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cn;I)V"/>
+<method name="a" type="(ZLjava/lang/String;Landroid/graphics/Bitmap;Landroid/graphics/Bitmap;)V"/>
+<method name="a" type="(Ljava/lang/String;Landroid/graphics/Bitmap;)I"/>
+<method name="a" type="(Ljava/lang/Object;Ljava/lang/Object;)I"/>
+<method name="a" type="(ZLjava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cn$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Ljava/lang/String;)V"/>
+<method name="a" type="(I)V"/>
+<method name="b" type="(I)V"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="a" type="(Z)V"/>
+<method name="b" type="(Z)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cn$a;)Z" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/cn$a;)I" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/cn$a;)Z" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/cn$a;)Ljava/io/File;" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/cn$a;)Z" class_method="true"/>
+<method name="f" type="(Lcom/amap/api/mapcore2d/cn$a;)I" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cn$a;Ljava/io/File;)Ljava/io/File;" class_method="true"/>
+<method name="g" type="(Lcom/amap/api/mapcore2d/cn$a;)Landroid/graphics/Bitmap$CompressFormat;" class_method="true"/>
+<method name="h" type="(Lcom/amap/api/mapcore2d/cn$a;)I" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cn" super="java/lang/Object">
+<method name="a" type="(Lcom/amap/api/mapcore2d/cn$a;)Lcom/amap/api/mapcore2d/cn;" class_method="true"/>
+<method name="a" type="()V"/>
+<method name="a" type="(Ljava/lang/String;Landroid/graphics/Bitmap;)V"/>
+<method name="a" type="(Ljava/lang/String;)Landroid/graphics/Bitmap;"/>
+<method name="b" type="(Ljava/lang/String;)Landroid/graphics/Bitmap;"/>
+<method name="b" type="()V"/>
+<method name="c" type="()V"/>
+<method name="d" type="()V"/>
+<method name="a" type="(Landroid/content/Context;Ljava/lang/String;)Ljava/io/File;" class_method="true"/>
+<method name="c" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Landroid/graphics/Bitmap;)I" class_method="true"/>
+<method name="e" type="()Z" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;)Ljava/io/File;" class_method="true"/>
+<method name="a" type="(Ljava/io/File;)J" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cn;)Ljava/util/HashMap;" class_method="true"/>
+<method name="f" type="()Landroid/graphics/Bitmap$CompressFormat;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/co" super="com/amap/api/mapcore2d/cp">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;II)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/TileProvider;)V"/>
+<method name="a" type="(Ljava/lang/Object;)Landroid/graphics/Bitmap;"/>
+<method name="a" type="(II)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cp" super="com/amap/api/mapcore2d/cq">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;II)V"/>
+<method name="a" type="(II)V"/>
+<method name="a" type="(Ljava/lang/Object;)Landroid/graphics/Bitmap;"/>
+<method name="a" type="(Landroid/content/res/Resources;IIILcom/amap/api/mapcore2d/cn;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="a" type="(Ljava/io/FileDescriptor;IILcom/amap/api/mapcore2d/cn;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="a" type="(Landroid/graphics/BitmapFactory$Options;II)I" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cq$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/cq$a" super="com/amap/api/mapcore2d/cl">
+<method name="a" type="([Ljava/lang/Boolean;)Landroid/graphics/Bitmap;"/>
+<method name="a" type="(Landroid/graphics/Bitmap;)V"/>
+<method name="b" type="(Landroid/graphics/Bitmap;)V"/>
+<method name="b" type="(Ljava/lang/Object;)V"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="a" type="([Ljava/lang/Object;)Ljava/lang/Object;"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cq;Lcom/amap/api/mapcore2d/bw$a;Lcom/amap/api/mapcore2d/cq$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cq$b" super="com/amap/api/mapcore2d/cl">
+<method name="d" type="([Ljava/lang/Object;)Ljava/lang/Void;"/>
+<method name="a" type="([Ljava/lang/Object;)Ljava/lang/Object;"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cq;Lcom/amap/api/mapcore2d/cq$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cq" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="(ZLcom/amap/api/mapcore2d/bw$a;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cn$a;)V"/>
+<method name="a" type="(Ljava/lang/Object;)Landroid/graphics/Bitmap;"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/cn;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bw$a;)V" class_method="true"/>
+<method name="b" type="()V"/>
+<method name="c" type="()V"/>
+<method name="d" type="()V"/>
+<method name="e" type="()V"/>
+<method name="f" type="()V"/>
+<method name="g" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cq;)Ljava/lang/Object;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/cq;)Z" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/cq;)Lcom/amap/api/mapcore2d/cn;" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/cq;)Z" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/bw$a;)Lcom/amap/api/mapcore2d/cq$a;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cr" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/String;Ljava/lang/String;I)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cs" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(I)V"/>
+<method name="a" type="(Ljava/lang/Object;)Ljava/lang/Object;"/>
+<method name="b" type="(Ljava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;"/>
+<method name="a" type="(ZLjava/lang/Object;Ljava/lang/Object;Ljava/lang/Object;)V"/>
+<method name="b" type="(Ljava/lang/Object;)Ljava/lang/Object;"/>
+<method name="a" type="(Ljava/lang/Object;Ljava/lang/Object;)I"/>
+<method name="a" type="()V"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/ct" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/String;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="a" type="(Ljava/lang/String;Ljava/lang/Object;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(F)F" class_method="true"/>
+<method name="b" type="(F)F" class_method="true"/>
+<method name="a" type="(I)I" class_method="true"/>
+<method name="a" type="([Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="([Ljava/lang/Object;)I" class_method="true"/>
+<method name="a" type="(Landroid/graphics/Bitmap;II)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="a" type="(Landroid/graphics/Bitmap;F)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;)D" class_method="true"/>
+<method name="b" type="(I)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="()Z" class_method="true"/>
+<method name="b" type="()Z" class_method="true"/>
+<method name="c" type="()Z" class_method="true"/>
+<method name="d" type="()Z" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/mapcore2d/ad;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;Ljava/util/List;)Z" class_method="true"/>
+<method name="a" type="(DDDDDD)Z" class_method="true"/>
+<method name="b" type="(DDDDDD)D" class_method="true"/>
+<method name="a" type="(DDDDDDDD)Z" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;)Z" class_method="true"/>
+<method name="a" type="(Ljava/lang/Throwable;Ljava/lang/String;Ljava/lang/String;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cu" super="java/lang/Exception">
+<method name="&lt;init&gt;" type="(Ljava/lang/String;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/cv" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="c" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="d" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Ljava/lang/String;)V" class_method="true"/>
+<method name="e" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="f" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cw" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/dc;)Z" class_method="true"/>
+<method name="a" type="(Ljava/lang/String;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cx" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/dc;Ljava/util/Map;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;[B)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="(Landroid/content/Context;[B)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/dc;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="()Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cy$a" super="org/xml/sax/helpers/DefaultHandler">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="startElement" type="(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lorg/xml/sax/Attributes;)V"/>
+<method name="characters" type="([CII)V"/>
+<method name="endElement" type="(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cy" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="c" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="d" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="e" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="f" type="(Landroid/content/Context;)I" class_method="true"/>
+<method name="g" type="(Landroid/content/Context;)I" class_method="true"/>
+<method name="h" type="(Landroid/content/Context;)I" class_method="true"/>
+<method name="i" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="j" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="k" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="l" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="m" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="n" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="o" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="p" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="q" type="(Landroid/content/Context;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Z)Z" class_method="true"/>
+<method name="a" type="()Z" class_method="true"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/cz" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="([B[B)[B" class_method="true"/>
+<method name="a" type="([BLjava/security/Key;)[B" class_method="true"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="(Ljava/lang/String;)[B" class_method="true"/>
+<method name="a" type="([B)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="([B)Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/d" super="android/os/Handler">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="handleMessage" type="(Landroid/os/Message;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/da" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="([B)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="c" type="(Ljava/lang/String;)[B" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/db" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;)Lorg/apache/http/HttpHost;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/dc$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/dc$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V"/>
+<method name="a" type="(Z)Lcom/amap/api/mapcore2d/dc$a;"/>
+<method name="a" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/dc$a;"/>
+<method name="a" type="([Ljava/lang/String;)Lcom/amap/api/mapcore2d/dc$a;"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/dc;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dc$a;)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/dc$a;)Ljava/lang/String;" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/dc$a;)Ljava/lang/String;" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/dc$a;)Z" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/dc$a;)Ljava/lang/String;" class_method="true"/>
+<method name="f" type="(Lcom/amap/api/mapcore2d/dc$a;)[Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/dc" super="java/lang/Object">
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="b" type="()Ljava/lang/String;"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="d" type="()Ljava/lang/String;"/>
+<method name="e" type="()Z"/>
+<method name="f" type="()[Ljava/lang/String;"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/dc$a;Lcom/amap/api/mapcore2d/dc$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dd" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="([B)[B" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;)Ljava/security/PublicKey;" class_method="true"/>
+<method name="b" type="([B)[B" class_method="true"/>
+<method name="c" type="([B)Ljava/lang/String;" class_method="true"/>
+<method name="d" type="([B)Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/de" super="com/amap/api/mapcore2d/et">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/util/Map;)V"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="b" type="(Ljava/util/Map;)V"/>
+<method name="d" type="()Ljava/lang/String;"/>
+<method name="b" type="()Ljava/util/Map;"/>
+<method name="c" type="()Ljava/util/Map;"/>
+<method name="e" type="()Lorg/apache/http/HttpEntity;"/>
+</class>
+<class name="com/amap/api/mapcore2d/df" super="com/amap/api/mapcore2d/dl">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dg" super="com/amap/api/mapcore2d/dl">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dh" super="android/database/sqlite/SQLiteOpenHelper">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Ljava/lang/String;Landroid/database/sqlite/SQLiteDatabase$CursorFactory;I)V"/>
+<method name="onCreate" type="(Landroid/database/sqlite/SQLiteDatabase;)V"/>
+<method name="onUpgrade" type="(Landroid/database/sqlite/SQLiteDatabase;II)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/di" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="(Ljava/lang/String;Lcom/amap/api/mapcore2d/dp;)V"/>
+<method name="b" type="(Ljava/lang/String;Lcom/amap/api/mapcore2d/dp;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dp;)V"/>
+<method name="c" type="(Ljava/lang/String;Lcom/amap/api/mapcore2d/dp;)Ljava/util/List;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dj" super="com/amap/api/mapcore2d/dl">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dk" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="(Ljava/lang/String;I)V"/>
+<method name="b" type="(Ljava/lang/String;I)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dm;I)V"/>
+<method name="a" type="(II)Ljava/util/List;"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/dm;I)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dm" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()I"/>
+<method name="a" type="(I)V"/>
+<method name="b" type="()Ljava/lang/String;"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="b" type="(Ljava/lang/String;)V"/>
+<method name="d" type="()I"/>
+<method name="b" type="(I)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dn" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dc;)V"/>
+<method name="a" type="()Ljava/util/List;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dq" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/ds;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ds;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ds" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Z)V"/>
+<method name="a" type="()Z"/>
+<method name="b" type="(Z)V"/>
+<method name="b" type="()Z"/>
+<method name="c" type="(Z)V"/>
+<method name="c" type="()Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/dt" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="b" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/du" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dv" super="java/lang/Object">
+<method name="a" type="(I)Lcom/amap/api/mapcore2d/dv;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dv;Lcom/amap/api/mapcore2d/dx;Z)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/dz" super="com/amap/api/mapcore2d/eg">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="b" type="()I"/>
+<method name="a" type="(Landroid/content/Context;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/e" super="android/os/Handler">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="handleMessage" type="(Landroid/os/Message;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ea$1" super="java/lang/Object">
+</class>
+<class name="com/amap/api/mapcore2d/ea" super="com/amap/api/mapcore2d/ei">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()I"/>
+<method name="b" type="()Ljava/lang/String;"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dk;)Lcom/amap/api/mapcore2d/en;"/>
+<method name="a" type="(Ljava/util/List;)Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/eb" super="com/amap/api/mapcore2d/eg">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="b" type="()I"/>
+<method name="a" type="(Landroid/content/Context;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/ec" super="com/amap/api/mapcore2d/ei">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()I"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;"/>
+<method name="b" type="()Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dk;)Lcom/amap/api/mapcore2d/en;"/>
+<method name="a" type="(Ljava/util/List;)Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/ed" super="com/amap/api/mapcore2d/eg">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="b" type="()I"/>
+<method name="a" type="(Landroid/content/Context;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/ee" super="com/amap/api/mapcore2d/ei">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()I"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;"/>
+<method name="b" type="()Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dk;)Lcom/amap/api/mapcore2d/en;"/>
+<method name="a" type="(Ljava/util/List;)Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/ef" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;Ljava/lang/Throwable;ILjava/lang/String;Ljava/lang/String;)V" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;)V" class_method="true"/>
+<method name="b" type="(Landroid/content/Context;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/eg" super="java/lang/Object">
+<method name="a" type="(Landroid/content/Context;I)Lcom/amap/api/mapcore2d/eg;" class_method="true"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="b" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="b" type="()I"/>
+<method name="a" type="(Landroid/content/Context;)Z"/>
+<method name="c" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/eh" super="com/amap/api/mapcore2d/et">
+<method name="&lt;init&gt;" type="([B)V"/>
+<method name="b" type="()Ljava/util/Map;"/>
+<method name="c" type="()Ljava/util/Map;"/>
+<method name="d" type="()Ljava/lang/String;"/>
+<method name="a_" type="()[B"/>
+<method name="e" type="()Lorg/apache/http/HttpEntity;"/>
+</class>
+<class name="com/amap/api/mapcore2d/ei" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(I)Lcom/amap/api/mapcore2d/ei;" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;Ljava/lang/Throwable;Ljava/lang/String;Ljava/lang/String;)V"/>
+<method name="a" type="(Landroid/content/Context;)V"/>
+<method name="a" type="(Ljava/util/List;)Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dc;)V"/>
+<method name="a" type="()I"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dk;)Lcom/amap/api/mapcore2d/en;"/>
+<method name="b" type="()Ljava/lang/String;"/>
+<method name="a" type="(Ljava/lang/Throwable;)Ljava/lang/String;"/>
+<method name="a" type="([Ljava/lang/String;Ljava/lang/String;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/ej" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/Throwable;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(J)Ljava/lang/String;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/ek$a$a" super="java/io/FilterOutputStream">
+<method name="write" type="(I)V"/>
+<method name="write" type="([BII)V"/>
+<method name="close" type="()V"/>
+<method name="flush" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ek$a;Ljava/io/OutputStream;Lcom/amap/api/mapcore2d/el;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ek$a" super="java/lang/Object">
+<method name="a" type="(I)Ljava/io/OutputStream;"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ek;Lcom/amap/api/mapcore2d/ek$c;Lcom/amap/api/mapcore2d/el;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek$a;)Lcom/amap/api/mapcore2d/ek$c;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ek$a;)[Z" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek$a;Z)Z" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/ek$c" super="java/lang/Object">
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="a" type="(I)Ljava/io/File;"/>
+<method name="b" type="(I)Ljava/io/File;"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ek;Ljava/lang/String;Lcom/amap/api/mapcore2d/el;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek$c;Z)Z" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek$c;Lcom/amap/api/mapcore2d/ek$a;)Lcom/amap/api/mapcore2d/ek$a;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek$c;[Ljava/lang/String;)V" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek$c;)Lcom/amap/api/mapcore2d/ek$a;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ek$c;)[J" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/ek$c;)Ljava/lang/String;" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/ek$c;)Z" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/ek$c;)J" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek$c;J)J" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/em" super="java/io/OutputStream">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="write" type="(I)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/eo$1" super="java/io/ByteArrayOutputStream">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/eo;I)V"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/mapcore2d/ep" super="java/lang/Object">
+<method name="a" type="(Ljava/io/File;)V" class_method="true"/>
+<method name="a" type="(Ljava/io/Closeable;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/eq" super="java/lang/Object">
+<method name="a" type="(Lcom/amap/api/mapcore2d/er;)V" class_method="true"/>
+<method name="&lt;init&gt;" type="(IILjava/net/Proxy;Z)V"/>
+<method name="&lt;init&gt;" type="(IILjava/net/Proxy;)V"/>
+<method name="a" type="(Ljava/lang/String;Ljava/util/Map;Ljava/util/Map;)[B"/>
+<method name="a" type="(Ljava/lang/String;Ljava/util/Map;[B)[B"/>
+<method name="b" type="(Ljava/lang/String;Ljava/util/Map;Ljava/util/Map;)[B"/>
+<method name="a" type="(Ljava/lang/String;Ljava/util/Map;Lorg/apache/http/HttpEntity;)[B"/>
+</class>
+<class name="com/amap/api/mapcore2d/es$1" super="com/amap/api/mapcore2d/dx">
+<method name="a" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/es$a" super="android/os/Handler">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="handleMessage" type="(Landroid/os/Message;)V"/>
+<method name="&lt;init&gt;" type="(Landroid/os/Looper;Lcom/amap/api/mapcore2d/es$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/es" super="java/lang/Object">
+<method name="a" type="()Lcom/amap/api/mapcore2d/es;" class_method="true"/>
+<method name="a" type="(Z)Lcom/amap/api/mapcore2d/es;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/et;)[B"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/et;)[B"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/es;[BLcom/amap/api/mapcore2d/eu;)V" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/es;Lcom/amap/api/mapcore2d/cu;Lcom/amap/api/mapcore2d/eu;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/et" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="b" type="()Ljava/util/Map;"/>
+<method name="c" type="()Ljava/util/Map;"/>
+<method name="d" type="()Ljava/lang/String;"/>
+<method name="e" type="()Lorg/apache/http/HttpEntity;"/>
+<method name="a" type="(I)V"/>
+<method name="b" type="(I)V"/>
+<method name="a_" type="()[B"/>
+<method name="a" type="(Lorg/apache/http/HttpHost;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ew" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ex" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(DD)[D" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/f" super="java/lang/Thread">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/h" super="java/lang/Object">
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="&lt;init&gt;" type="(II)V"/>
+<method name="c" type="()V"/>
+<method name="d" type="()V"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/h;)V" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/h;)Landroid/os/Handler;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/h;Landroid/os/Handler;)Landroid/os/Handler;" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/h;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/j" super="com/amap/api/mapcore2d/be">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;Landroid/content/Context;)V"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()V"/>
+<method name="d" type="()V"/>
+<method name="e" type="()I"/>
+<method name="f" type="()I"/>
+<method name="a" type="(Ljava/util/ArrayList;)Ljava/util/ArrayList;"/>
+<method name="b" type="(Ljava/util/ArrayList;)Ljava/util/ArrayList;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/j;)Ljava/util/Vector;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/j;)Z" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/j;Z)Z" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/m" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/n" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()I" class_method="true"/>
+<method name="b" type="()Landroid/graphics/Paint;" class_method="true"/>
+<method name="c" type="()Landroid/graphics/Bitmap;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/o" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/graphics/Bitmap$Config;)V"/>
+<method name="a" type="(Landroid/graphics/Bitmap;)V"/>
+<method name="a" type="(II)V"/>
+<method name="a" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/p;)V"/>
+<method name="b" type="()Landroid/graphics/Bitmap;"/>
+</class>
+<class name="com/amap/api/mapcore2d/q$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/q;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/q" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(IIZJ)V"/>
+<method name="a" type="(Ljava/lang/String;)I"/>
+<method name="a" type="(I)Landroid/graphics/Bitmap;"/>
+<method name="a" type="([B[BZLjava/util/List;Ljava/lang/String;)I"/>
+<method name="a" type="()I"/>
+<method name="b" type="()I"/>
+<method name="c" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/q;)Landroid/graphics/Paint;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/q;Landroid/graphics/Paint;)Landroid/graphics/Paint;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/q;)Landroid/graphics/Path;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/q;Landroid/graphics/Path;)Landroid/graphics/Path;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/r" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;ZLcom/amap/api/mapcore2d/at;)V"/>
+<method name="a" type="(Landroid/content/Context;Ljava/lang/String;Lcom/amap/api/mapcore2d/at;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/q;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/n$a;)I"/>
+<method name="a" type="([BIII)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/s" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()Z"/>
+<method name="a" type="(Z)V"/>
+<method name="b" type="()I"/>
+<method name="c" type="()I"/>
+<method name="d" type="()F"/>
+<method name="e" type="()F"/>
+<method name="f" type="()F"/>
+<method name="g" type="()Z"/>
+<method name="a" type="(F)F" class_method="true"/>
+<method name="h" type="()I"/>
+</class>
+<class name="com/amap/api/mapcore2d/t" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/t;" class_method="true"/>
+<method name="b" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/t$a;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/t$a;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/u$a" super="java/lang/Enum">
+<method name="values" type="()[Lcom/amap/api/mapcore2d/u$a;" class_method="true"/>
+<method name="valueOf" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/u$a;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/u" super="java/lang/Object">
+<method name="a" type="()Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="b" type="()Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="c" type="()Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(FF)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(F)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="b" type="(F)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(FLandroid/graphics/Point;)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/CameraPosition;)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;F)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;FFF)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/al;FFF)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLngBounds;I)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLngBounds;III)Lcom/amap/api/mapcore2d/u;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/v" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/v;" class_method="true"/>
+<method name="b" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/v$a;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/v$a;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/x" super="android/widget/LinearLayout">
+<method name="a" type="()V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/ba;Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/x;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/x;)Landroid/widget/ImageView;" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/x;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/x;)Lcom/amap/api/mapcore2d/af;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/y$a" super="java/lang/Enum">
+<method name="values" type="()[Lcom/amap/api/mapcore2d/y$a;" class_method="true"/>
+<method name="valueOf" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/y$a;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/y" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Z)Lcom/amap/api/mapcore2d/dc;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/z" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(D)J" class_method="true"/>
+<method name="a" type="(J)D" class_method="true"/>
+</class>
+<class name="com/amap/api/maps2d/AMap" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="getCameraPosition" type="()Lcom/amap/api/maps2d/model/CameraPosition;"/>
+<method name="getMaxZoomLevel" type="()F"/>
+<method name="getMinZoomLevel" type="()F"/>
+<method name="moveCamera" type="(Lcom/amap/api/maps2d/CameraUpdate;)V"/>
+<method name="animateCamera" type="(Lcom/amap/api/maps2d/CameraUpdate;)V"/>
+<method name="animateCamera" type="(Lcom/amap/api/maps2d/CameraUpdate;Lcom/amap/api/maps2d/AMap$CancelableCallback;)V"/>
+<method name="animateCamera" type="(Lcom/amap/api/maps2d/CameraUpdate;JLcom/amap/api/maps2d/AMap$CancelableCallback;)V"/>
+<method name="stopAnimation" type="()V"/>
+<method name="addPolyline" type="(Lcom/amap/api/maps2d/model/PolylineOptions;)Lcom/amap/api/maps2d/model/Polyline;"/>
+<method name="addCircle" type="(Lcom/amap/api/maps2d/model/CircleOptions;)Lcom/amap/api/maps2d/model/Circle;"/>
+<method name="addPolygon" type="(Lcom/amap/api/maps2d/model/PolygonOptions;)Lcom/amap/api/maps2d/model/Polygon;"/>
+<method name="addMarker" type="(Lcom/amap/api/maps2d/model/MarkerOptions;)Lcom/amap/api/maps2d/model/Marker;"/>
+<method name="addGroundOverlay" type="(Lcom/amap/api/maps2d/model/GroundOverlayOptions;)Lcom/amap/api/maps2d/model/GroundOverlay;"/>
+<method name="addTileOverlay" type="(Lcom/amap/api/maps2d/model/TileOverlayOptions;)Lcom/amap/api/maps2d/model/TileOverlay;"/>
+<method name="clear" type="()V"/>
+<method name="getMapType" type="()I"/>
+<method name="setMapType" type="(I)V"/>
+<method name="setMyLocationRotateAngle" type="(F)V"/>
+<method name="isTrafficEnabled" type="()Z"/>
+<method name="setTrafficEnabled" type="(Z)V"/>
+<method name="isMyLocationEnabled" type="()Z"/>
+<method name="getVersion" type="()Ljava/lang/String;" class_method="true"/>
+<method name="setMyLocationEnabled" type="(Z)V"/>
+<method name="getMyLocation" type="()Landroid/location/Location;"/>
+<method name="setLocationSource" type="(Lcom/amap/api/maps2d/LocationSource;)V"/>
+<method name="setMyLocationStyle" type="(Lcom/amap/api/maps2d/model/MyLocationStyle;)V"/>
+<method name="getUiSettings" type="()Lcom/amap/api/maps2d/UiSettings;"/>
+<method name="getProjection" type="()Lcom/amap/api/maps2d/Projection;"/>
+<method name="setOnCameraChangeListener" type="(Lcom/amap/api/maps2d/AMap$OnCameraChangeListener;)V"/>
+<method name="setOnMapClickListener" type="(Lcom/amap/api/maps2d/AMap$OnMapClickListener;)V"/>
+<method name="setOnMapTouchListener" type="(Lcom/amap/api/maps2d/AMap$OnMapTouchListener;)V"/>
+<method name="setOnMyLocationChangeListener" type="(Lcom/amap/api/maps2d/AMap$OnMyLocationChangeListener;)V"/>
+<method name="setOnMapLongClickListener" type="(Lcom/amap/api/maps2d/AMap$OnMapLongClickListener;)V"/>
+<method name="setOnMarkerClickListener" type="(Lcom/amap/api/maps2d/AMap$OnMarkerClickListener;)V"/>
+<method name="setOnMarkerDragListener" type="(Lcom/amap/api/maps2d/AMap$OnMarkerDragListener;)V"/>
+<method name="setOnInfoWindowClickListener" type="(Lcom/amap/api/maps2d/AMap$OnInfoWindowClickListener;)V"/>
+<method name="setInfoWindowAdapter" type="(Lcom/amap/api/maps2d/AMap$InfoWindowAdapter;)V"/>
+<method name="setOnMapLoadedListener" type="(Lcom/amap/api/maps2d/AMap$OnMapLoadedListener;)V"/>
+<method name="getMapScreenShot" type="(Lcom/amap/api/maps2d/AMap$OnMapScreenShotListener;)V"/>
+<method name="getScalePerPixel" type="()F"/>
+<method name="getMapScreenMarkers" type="()Ljava/util/List;"/>
+<method name="postInvalidate" type="()V"/>
+<method name="invalidate" type="()V"/>
+<method name="setMapLanguage" type="(Ljava/lang/String;)V"/>
+</class>
+<class name="com/amap/api/maps2d/AMapException" super="java/lang/Exception">
+<method name="&lt;init&gt;" type="(Ljava/lang/String;)V"/>
+<method name="&lt;init&gt;" type="()V"/>
+<method name="getErrorMessage" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/maps2d/AMapUtils$a" super="java/lang/Thread">
+<method name="&lt;init&gt;" type="(Ljava/lang/String;Landroid/content/Context;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/maps2d/AMapUtils" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="calculateLineDistance" type="(Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;)F" class_method="true"/>
+<method name="calculateArea" type="(Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;)F" class_method="true"/>
+<method name="getLatestAMapApp" type="(Landroid/content/Context;)V" class_method="true"/>
+<method name="openAMapNavi" type="(Lcom/amap/api/maps2d/model/NaviPara;Landroid/content/Context;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/maps2d/CameraUpdate" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/u;)V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/u;"/>
+</class>
+<class name="com/amap/api/maps2d/CameraUpdateFactory" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="zoomIn" type="()Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="zoomOut" type="()Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="scrollBy" type="(FF)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="zoomTo" type="(F)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="zoomBy" type="(F)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="zoomBy" type="(FLandroid/graphics/Point;)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="newCameraPosition" type="(Lcom/amap/api/maps2d/model/CameraPosition;)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="newLatLng" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="newLatLngZoom" type="(Lcom/amap/api/maps2d/model/LatLng;F)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="newLatLngBounds" type="(Lcom/amap/api/maps2d/model/LatLngBounds;I)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="changeLatLng" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+<method name="newLatLngBounds" type="(Lcom/amap/api/maps2d/model/LatLngBounds;III)Lcom/amap/api/maps2d/CameraUpdate;" class_method="true"/>
+</class>
+<class name="com/amap/api/maps2d/MapFragment" super="android/app/Fragment">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="newInstance" type="()Lcom/amap/api/maps2d/MapFragment;" class_method="true"/>
+<method name="newInstance" type="(Lcom/amap/api/maps2d/AMapOptions;)Lcom/amap/api/maps2d/MapFragment;" class_method="true"/>
+<method name="getMapFragmentDelegate" type="()Lcom/amap/api/mapcore2d/ai;"/>
+<method name="getMap" type="()Lcom/amap/api/maps2d/AMap;"/>
+<method name="onAttach" type="(Landroid/app/Activity;)V"/>
+<method name="onInflate" type="(Landroid/app/Activity;Landroid/util/AttributeSet;Landroid/os/Bundle;)V"/>
+<method name="onCreate" type="(Landroid/os/Bundle;)V"/>
+<method name="onCreateView" type="(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;"/>
+<method name="onResume" type="()V"/>
+<method name="onPause" type="()V"/>
+<method name="onDestroyView" type="()V"/>
+<method name="onDestroy" type="()V"/>
+<method name="onLowMemory" type="()V"/>
+<method name="onSaveInstanceState" type="(Landroid/os/Bundle;)V"/>
+<method name="setArguments" type="(Landroid/os/Bundle;)V"/>
+</class>
+<class name="com/amap/api/maps2d/MapsInitializer" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="initialize" type="(Landroid/content/Context;)V" class_method="true"/>
+<method name="setNetworkEnable" type="(Z)V" class_method="true"/>
+<method name="getNetworkEnable" type="()Z" class_method="true"/>
+<method name="setApiKey" type="(Ljava/lang/String;)V" class_method="true"/>
+<method name="replaceURL" type="(Ljava/lang/String;Ljava/lang/String;)V" class_method="true"/>
+</class>
+<class name="com/amap/api/maps2d/MapView" super="android/widget/FrameLayout">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Landroid/util/AttributeSet;)V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Landroid/util/AttributeSet;I)V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/maps2d/AMapOptions;)V"/>
+<method name="getMapFragmentDelegate" type="()Lcom/amap/api/mapcore2d/ai;"/>
+<method name="getMap" type="()Lcom/amap/api/maps2d/AMap;"/>
+<method name="onCreate" type="(Landroid/os/Bundle;)V"/>
+<method name="onResume" type="()V"/>
+<method name="onPause" type="()V"/>
+<method name="onDestroy" type="()V"/>
+<method name="onLowMemory" type="()V"/>
+<method name="onSaveInstanceState" type="(Landroid/os/Bundle;)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/BitmapDescriptorFactory" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="fromResource" type="(I)Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+<method name="fromView" type="(Landroid/view/View;)Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+<method name="fromPath" type="(Ljava/lang/String;)Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+<method name="fromAsset" type="(Ljava/lang/String;)Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+<method name="fromFile" type="(Ljava/lang/String;)Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+<method name="defaultMarker" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+<method name="defaultMarker" type="(F)Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+<method name="fromBitmap" type="(Landroid/graphics/Bitmap;)Lcom/amap/api/maps2d/model/BitmapDescriptor;" class_method="true"/>
+</class>
+<class name="com/amap/api/maps2d/model/CameraPosition$Builder" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/maps2d/model/CameraPosition;)V"/>
+<method name="target" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/CameraPosition$Builder;"/>
+<method name="zoom" type="(F)Lcom/amap/api/maps2d/model/CameraPosition$Builder;"/>
+<method name="tilt" type="(F)Lcom/amap/api/maps2d/model/CameraPosition$Builder;"/>
+<method name="bearing" type="(F)Lcom/amap/api/maps2d/model/CameraPosition$Builder;"/>
+<method name="build" type="()Lcom/amap/api/maps2d/model/CameraPosition;"/>
+</class>
+<class name="com/amap/api/maps2d/model/Circle" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ag;)V"/>
+<method name="remove" type="()V"/>
+<method name="getId" type="()Ljava/lang/String;"/>
+<method name="setCenter" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="getCenter" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="setRadius" type="(D)V"/>
+<method name="getRadius" type="()D"/>
+<method name="setStrokeWidth" type="(F)V"/>
+<method name="getStrokeWidth" type="()F"/>
+<method name="setStrokeColor" type="(I)V"/>
+<method name="getStrokeColor" type="()I"/>
+<method name="setFillColor" type="(I)V"/>
+<method name="getFillColor" type="()I"/>
+<method name="setZIndex" type="(F)V"/>
+<method name="getZIndex" type="()F"/>
+<method name="setVisible" type="(Z)V"/>
+<method name="isVisible" type="()Z"/>
+<method name="contains" type="(Lcom/amap/api/maps2d/model/LatLng;)Z"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/model/GroundOverlay" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ah;)V"/>
+<method name="remove" type="()V"/>
+<method name="getId" type="()Ljava/lang/String;"/>
+<method name="setPosition" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="getPosition" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="setDimensions" type="(F)V"/>
+<method name="setImage" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)V"/>
+<method name="setDimensions" type="(FF)V"/>
+<method name="getWidth" type="()F"/>
+<method name="getHeight" type="()F"/>
+<method name="setPositionFromBounds" type="(Lcom/amap/api/maps2d/model/LatLngBounds;)V"/>
+<method name="getBounds" type="()Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="setBearing" type="(F)V"/>
+<method name="getBearing" type="()F"/>
+<method name="setZIndex" type="(F)V"/>
+<method name="getZIndex" type="()F"/>
+<method name="setVisible" type="(Z)V"/>
+<method name="isVisible" type="()Z"/>
+<method name="setTransparency" type="(F)V"/>
+<method name="getTransparency" type="()F"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/model/LatLngBounds$Builder" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="include" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/LatLngBounds$Builder;"/>
+<method name="build" type="()Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+</class>
+<class name="com/amap/api/maps2d/model/Marker" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/aj;)V"/>
+<method name="setPeriod" type="(I)V"/>
+<method name="getPeriod" type="()I"/>
+<method name="setIcons" type="(Ljava/util/ArrayList;)V"/>
+<method name="getIcons" type="()Ljava/util/ArrayList;"/>
+<method name="remove" type="()V"/>
+<method name="destroy" type="()V"/>
+<method name="getId" type="()Ljava/lang/String;"/>
+<method name="setPosition" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="getPosition" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="setTitle" type="(Ljava/lang/String;)V"/>
+<method name="getTitle" type="()Ljava/lang/String;"/>
+<method name="setSnippet" type="(Ljava/lang/String;)V"/>
+<method name="getSnippet" type="()Ljava/lang/String;"/>
+<method name="setIcon" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)V"/>
+<method name="setAnchor" type="(FF)V"/>
+<method name="setDraggable" type="(Z)V"/>
+<method name="isDraggable" type="()Z"/>
+<method name="showInfoWindow" type="()V"/>
+<method name="hideInfoWindow" type="()V"/>
+<method name="isInfoWindowShown" type="()Z"/>
+<method name="setVisible" type="(Z)V"/>
+<method name="isVisible" type="()Z"/>
+<method name="setRotateAngle" type="(F)V"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+<method name="setObject" type="(Ljava/lang/Object;)V"/>
+<method name="getObject" type="()Ljava/lang/Object;"/>
+<method name="setPositionByPixels" type="(II)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/MyTrafficStyle" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="getSmoothColor" type="()I"/>
+<method name="setSmoothColor" type="(I)V"/>
+<method name="getSlowColor" type="()I"/>
+<method name="setSlowColor" type="(I)V"/>
+<method name="getCongestedColor" type="()I"/>
+<method name="setCongestedColor" type="(I)V"/>
+<method name="getSeriousCongestedColor" type="()I"/>
+<method name="setSeriousCongestedColor" type="(I)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/NaviPara" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="setTargetPoint" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="setNaviStyle" type="(I)V"/>
+<method name="getTargetPoint" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="getNaviStyle" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/model/Polygon" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/am;)V"/>
+<method name="remove" type="()V"/>
+<method name="getId" type="()Ljava/lang/String;"/>
+<method name="setPoints" type="(Ljava/util/List;)V"/>
+<method name="getPoints" type="()Ljava/util/List;"/>
+<method name="setStrokeWidth" type="(F)V"/>
+<method name="getStrokeWidth" type="()F"/>
+<method name="setStrokeColor" type="(I)V"/>
+<method name="getStrokeColor" type="()I"/>
+<method name="setFillColor" type="(I)V"/>
+<method name="getFillColor" type="()I"/>
+<method name="setZIndex" type="(F)V"/>
+<method name="getZIndex" type="()F"/>
+<method name="setVisible" type="(Z)V"/>
+<method name="isVisible" type="()Z"/>
+<method name="contains" type="(Lcom/amap/api/maps2d/model/LatLng;)Z"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/model/Polyline" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/an;)V"/>
+<method name="remove" type="()V"/>
+<method name="getId" type="()Ljava/lang/String;"/>
+<method name="setPoints" type="(Ljava/util/List;)V"/>
+<method name="getPoints" type="()Ljava/util/List;"/>
+<method name="setWidth" type="(F)V"/>
+<method name="getWidth" type="()F"/>
+<method name="setColor" type="(I)V"/>
+<method name="getColor" type="()I"/>
+<method name="setZIndex" type="(F)V"/>
+<method name="getZIndex" type="()F"/>
+<method name="setVisible" type="(Z)V"/>
+<method name="isVisible" type="()Z"/>
+<method name="setGeodesic" type="(Z)V"/>
+<method name="isGeodesic" type="()Z"/>
+<method name="setDottedLine" type="(Z)V"/>
+<method name="isDottedLine" type="()Z"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/model/RuntimeRemoteException" super="java/lang/RuntimeException">
+<method name="&lt;init&gt;" type="(Landroid/os/RemoteException;)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/TileOverlay" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/aq;)V"/>
+<method name="remove" type="()V"/>
+<method name="clearTileCache" type="()V"/>
+<method name="getId" type="()Ljava/lang/String;"/>
+<method name="setZIndex" type="(F)V"/>
+<method name="getZIndex" type="()F"/>
+<method name="setVisible" type="(Z)V"/>
+<method name="isVisible" type="()Z"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/overlay/a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Lcom/amap/api/services/core/LatLonPoint;)Lcom/amap/api/maps2d/model/LatLng;" class_method="true"/>
+<method name="a" type="(Ljava/util/List;)Ljava/util/ArrayList;" class_method="true"/>
+<method name="a" type="(Landroid/graphics/Bitmap;F)Landroid/graphics/Bitmap;" class_method="true"/>
+</class>
+<class name="com/amap/api/maps2d/overlay/b" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="removeFromMap" type="()V"/>
+<method name="setNodeIconVisibility" type="(Z)V"/>
+<method name="getStartBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getEndBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getBusBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getWalkBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getDriveBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getBitDes" type="(Landroid/graphics/Bitmap;Ljava/lang/String;)Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="addStartAndEndMarker" type="()V"/>
+<method name="zoomToSpan" type="()V"/>
+<method name="getLatLngBounds" type="()Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="getWalkColor" type="()I"/>
+<method name="getBusColor" type="()I"/>
+<method name="getDriveColor" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/overlay/BusLineOverlay" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/maps2d/AMap;Lcom/amap/api/services/busline/BusLineItem;)V"/>
+<method name="addToMap" type="()V"/>
+<method name="removeFromMap" type="()V"/>
+<method name="zoomToSpan" type="()V"/>
+<method name="getStartBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getEndBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getBusBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getTitle" type="(I)Ljava/lang/String;"/>
+<method name="getSnippet" type="(I)Ljava/lang/String;"/>
+<method name="getBusStationIndex" type="(Lcom/amap/api/maps2d/model/Marker;)I"/>
+<method name="getBusStationItem" type="(I)Lcom/amap/api/services/busline/BusStationItem;"/>
+<method name="getBusColor" type="()I"/>
+<method name="getBuslineWidth" type="()F"/>
+</class>
+<class name="com/amap/api/maps2d/overlay/BusRouteOverlay" super="com/amap/api/maps2d/overlay/b">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/maps2d/AMap;Lcom/amap/api/services/route/BusPath;Lcom/amap/api/services/core/LatLonPoint;Lcom/amap/api/services/core/LatLonPoint;)V"/>
+<method name="addToMap" type="()V"/>
+<method name="drawLineArrow" type="(Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="getBuslineWidth" type="()F"/>
+<method name="zoomToSpan" type="()V"/>
+<method name="setNodeIconVisibility" type="(Z)V"/>
+<method name="removeFromMap" type="()V"/>
+</class>
+<class name="com/amap/api/maps2d/overlay/DrivingRouteOverlay" super="com/amap/api/maps2d/overlay/b">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/maps2d/AMap;Lcom/amap/api/services/route/DrivePath;Lcom/amap/api/services/core/LatLonPoint;Lcom/amap/api/services/core/LatLonPoint;)V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/maps2d/AMap;Lcom/amap/api/services/route/DrivePath;Lcom/amap/api/services/core/LatLonPoint;Lcom/amap/api/services/core/LatLonPoint;Ljava/util/List;)V"/>
+<method name="addToMap" type="()V"/>
+<method name="removeFromMap" type="()V"/>
+<method name="setThroughPointIconVisibility" type="(Z)V"/>
+<method name="getBuslineWidth" type="()F"/>
+<method name="getPassedByBitmapDescriptor" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getLatLngBounds" type="()Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="zoomToSpan" type="()V"/>
+<method name="setNodeIconVisibility" type="(Z)V"/>
+</class>
+<class name="com/amap/api/maps2d/overlay/PoiOverlay" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/maps2d/AMap;Ljava/util/List;)V"/>
+<method name="addToMap" type="()V"/>
+<method name="removeFromMap" type="()V"/>
+<method name="zoomToSpan" type="()V"/>
+<method name="getBitmapDescriptor" type="(I)Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getTitle" type="(I)Ljava/lang/String;"/>
+<method name="getSnippet" type="(I)Ljava/lang/String;"/>
+<method name="getPoiIndex" type="(Lcom/amap/api/maps2d/model/Marker;)I"/>
+<method name="getPoiItem" type="(I)Lcom/amap/api/services/core/PoiItem;"/>
+</class>
+<class name="com/amap/api/maps2d/overlay/WalkRouteOverlay" super="com/amap/api/maps2d/overlay/b">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Lcom/amap/api/maps2d/AMap;Lcom/amap/api/services/route/WalkPath;Lcom/amap/api/services/core/LatLonPoint;Lcom/amap/api/services/core/LatLonPoint;)V"/>
+<method name="addToMap" type="()V"/>
+<method name="getBuslineWidth" type="()F"/>
+<method name="zoomToSpan" type="()V"/>
+<method name="setNodeIconVisibility" type="(Z)V"/>
+<method name="removeFromMap" type="()V"/>
+</class>
+<class name="com/amap/api/maps2d/Projection" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ao;)V"/>
+<method name="fromScreenLocation" type="(Landroid/graphics/Point;)Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="toScreenLocation" type="(Lcom/amap/api/maps2d/model/LatLng;)Landroid/graphics/Point;"/>
+<method name="toMapLocation" type="(Lcom/amap/api/maps2d/model/LatLng;)Landroid/graphics/PointF;"/>
+<method name="getVisibleRegion" type="()Lcom/amap/api/maps2d/model/VisibleRegion;"/>
+</class>
+<class name="com/amap/api/maps2d/SupportMapFragment" super="android/support/v4/app/Fragment">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="newInstance" type="()Lcom/amap/api/maps2d/SupportMapFragment;" class_method="true"/>
+<method name="newInstance" type="(Lcom/amap/api/maps2d/AMapOptions;)Lcom/amap/api/maps2d/SupportMapFragment;" class_method="true"/>
+<method name="getMapFragmentDelegate" type="()Lcom/amap/api/mapcore2d/ai;"/>
+<method name="getMap" type="()Lcom/amap/api/maps2d/AMap;"/>
+<method name="onAttach" type="(Landroid/app/Activity;)V"/>
+<method name="onInflate" type="(Landroid/app/Activity;Landroid/util/AttributeSet;Landroid/os/Bundle;)V"/>
+<method name="onCreate" type="(Landroid/os/Bundle;)V"/>
+<method name="onCreateView" type="(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;"/>
+<method name="onResume" type="()V"/>
+<method name="onPause" type="()V"/>
+<method name="onDestroyView" type="()V"/>
+<method name="onDestroy" type="()V"/>
+<method name="onLowMemory" type="()V"/>
+<method name="onSaveInstanceState" type="(Landroid/os/Bundle;)V"/>
+<method name="setArguments" type="(Landroid/os/Bundle;)V"/>
+</class>
+<class name="com/amap/api/maps2d/UiSettings" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ar;)V"/>
+<method name="setScaleControlsEnabled" type="(Z)V"/>
+<method name="setZoomControlsEnabled" type="(Z)V"/>
+<method name="setCompassEnabled" type="(Z)V"/>
+<method name="setMyLocationButtonEnabled" type="(Z)V"/>
+<method name="setScrollGesturesEnabled" type="(Z)V"/>
+<method name="setZoomGesturesEnabled" type="(Z)V"/>
+<method name="setAllGesturesEnabled" type="(Z)V"/>
+<method name="setLogoPosition" type="(I)V"/>
+<method name="setZoomPosition" type="(I)V"/>
+<method name="isScaleControlsEnabled" type="()Z"/>
+<method name="isZoomControlsEnabled" type="()Z"/>
+<method name="isCompassEnabled" type="()Z"/>
+<method name="isMyLocationButtonEnabled" type="()Z"/>
+<method name="isScrollGesturesEnabled" type="()Z"/>
+<method name="isZoomGesturesEnabled" type="()Z"/>
+<method name="getLogoPosition" type="()I"/>
+<method name="getZoomPosition" type="()I"/>
+</class>
+<class name="com/amap/api/mapcore2d/ac$a" super="java/lang/Object">
+<method name="compare" type="(Ljava/lang/Object;Ljava/lang/Object;)I"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ac;Lcom/amap/api/mapcore2d/ac$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ae" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="a" type="(F)V"/>
+<method name="d" type="()F"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ak;)Z"/>
+<method name="f" type="()I"/>
+<method name="g" type="()V"/>
+<method name="l" type="()V"/>
+<method name="a" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="h" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="b" type="(F)V"/>
+<method name="a" type="(FF)V"/>
+<method name="i" type="()F"/>
+<method name="j" type="()F"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLngBounds;)V"/>
+<method name="k" type="()Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="c" type="(F)V"/>
+<method name="m" type="()F"/>
+<method name="d" type="(F)V"/>
+<method name="n" type="()F"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)V"/>
+<method name="b" type="(FF)V"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/av$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/av;)V"/>
+<method name="onClick" type="(Landroid/view/View;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/av$2" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/av;)V"/>
+<method name="onTouch" type="(Landroid/view/View;Landroid/view/MotionEvent;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/ay$a" super="java/lang/Object">
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;Landroid/os/Message;Ljava/lang/Runnable;I)V"/>
+<method name="a" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;)V"/>
+<method name="b" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ay;Lcom/amap/api/mapcore2d/ay$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ay$b" super="java/lang/Object">
+<method name="a" type="()V"/>
+<method name="a" type="(IIIZZ)V"/>
+<method name="onAnimationStart" type="(Landroid/view/animation/Animation;)V"/>
+<method name="onAnimationRepeat" type="(Landroid/view/animation/Animation;)V"/>
+<method name="onAnimationEnd" type="(Landroid/view/animation/Animation;)V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ay;Lcom/amap/api/mapcore2d/ay$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ay" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;)V"/>
+<method name="a" type="()I"/>
+<method name="b" type="()I"/>
+<method name="a" type="(I)V"/>
+<method name="b" type="(I)V"/>
+<method name="onKey" type="(Landroid/view/View;ILandroid/view/KeyEvent;)Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;I)V"/>
+<method name="c" type="(I)I"/>
+<method name="a" type="(II)V"/>
+<method name="c" type="()Z"/>
+<method name="d" type="(I)Z"/>
+<method name="e" type="(I)Z"/>
+<method name="d" type="()Z"/>
+<method name="b" type="(II)Z"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ad;I)V"/>
+<method name="a" type="(Z)V"/>
+<method name="c" type="(II)V"/>
+<method name="e" type="()V"/>
+<method name="a" type="(IIIZZ)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ay;)Lcom/amap/api/mapcore2d/bh;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/az" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/content/Context;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMapOptions;)V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/af;"/>
+<method name="a" type="(Landroid/app/Activity;Lcom/amap/api/maps2d/AMapOptions;Landroid/os/Bundle;)V"/>
+<method name="a" type="(Landroid/os/Bundle;)V"/>
+<method name="a" type="(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;"/>
+<method name="g" type="()V"/>
+<method name="b" type="(Lcom/amap/api/maps2d/AMapOptions;)V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()V"/>
+<method name="d" type="()V"/>
+<method name="e" type="()V"/>
+<method name="f" type="()V"/>
+<method name="b" type="(Landroid/os/Bundle;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/b" super="android/view/View">
+<method name="a" type="()Lcom/amap/api/mapcore2d/bh;"/>
+<method name="b" type="()Lcom/amap/api/mapcore2d/bd;"/>
+<method name="c" type="()I"/>
+<method name="d" type="()I"/>
+<method name="e" type="()Landroid/view/View;"/>
+<method name="a" type="(Z)V"/>
+<method name="a" type="(Landroid/location/Location;)V"/>
+<method name="a" type="(Ljava/lang/String;)Z"/>
+<method name="b" type="(Ljava/lang/String;)Z"/>
+<method name="a" type="(I)I"/>
+<method name="f" type="()F"/>
+<method name="g" type="()Lcom/amap/api/maps2d/model/CameraPosition;"/>
+<method name="h" type="()F"/>
+<method name="i" type="()F"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/u;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;Lcom/amap/api/maps2d/AMap$CancelableCallback;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;JLcom/amap/api/maps2d/AMap$CancelableCallback;)V"/>
+<method name="a" type="(FLandroid/graphics/Point;Z)V"/>
+<method name="j" type="()V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/PolylineOptions;)Lcom/amap/api/mapcore2d/an;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/CircleOptions;)Lcom/amap/api/mapcore2d/ag;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/GroundOverlayOptions;)Lcom/amap/api/mapcore2d/ah;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/PolygonOptions;)Lcom/amap/api/mapcore2d/am;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/MarkerOptions;)Lcom/amap/api/maps2d/model/Marker;"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/MarkerOptions;)Lcom/amap/api/mapcore2d/bg;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/TileOverlayOptions;)Lcom/amap/api/maps2d/model/TileOverlay;"/>
+<method name="k" type="()V"/>
+<method name="l" type="()I"/>
+<method name="b" type="(I)V"/>
+<method name="m" type="()Z"/>
+<method name="b" type="(Z)V"/>
+<method name="n" type="()Z"/>
+<method name="c" type="(Z)V"/>
+<method name="a" type="(F)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/MyLocationStyle;)V"/>
+<method name="o" type="()Lcom/amap/api/mapcore2d/bj;"/>
+<method name="p" type="()Landroid/location/Location;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/LocationSource;)V"/>
+<method name="q" type="()Lcom/amap/api/mapcore2d/ar;"/>
+<method name="r" type="()Lcom/amap/api/mapcore2d/ao;"/>
+<method name="s" type="()Lcom/amap/api/mapcore2d/bn;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapTouchListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapLongClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMarkerClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMarkerDragListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapLoadedListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnInfoWindowClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$InfoWindowAdapter;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/aj;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/aj;)Z"/>
+<method name="t" type="()V"/>
+<method name="u" type="()V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMyLocationChangeListener;)V"/>
+<method name="d" type="(Z)V"/>
+<method name="e" type="(Z)V"/>
+<method name="f" type="(Z)V"/>
+<method name="g" type="(Z)V"/>
+<method name="v" type="()V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapScreenShotListener;)V"/>
+<method name="c" type="(I)V"/>
+<method name="d" type="(I)V"/>
+<method name="w" type="()F"/>
+<method name="x" type="()Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="y" type="()V"/>
+<method name="z" type="()V"/>
+<method name="A" type="()Landroid/graphics/Point;"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="&lt;init&gt;" type="(Landroid/content/Context;Landroid/util/AttributeSet;)V"/>
+<method name="B" type="()Z"/>
+<method name="e" type="(I)V"/>
+<method name="C" type="()Lcom/amap/api/mapcore2d/ad;"/>
+<method name="D" type="()Lcom/amap/api/mapcore2d/ay;"/>
+<method name="h" type="(Z)V"/>
+<method name="E" type="()Z"/>
+<method name="i" type="(Z)V"/>
+<method name="F" type="()Z"/>
+<method name="onRestoreInstanceState" type="(Landroid/os/Parcelable;)V"/>
+<method name="onSaveInstanceState" type="()Landroid/os/Parcelable;"/>
+<method name="onAttachedToWindow" type="()V"/>
+<method name="computeScroll" type="()V"/>
+<method name="setClickable" type="(Z)V"/>
+<method name="onWindowFocusChanged" type="(Z)V"/>
+<method name="onKeyDown" type="(ILandroid/view/KeyEvent;)Z"/>
+<method name="onKeyUp" type="(ILandroid/view/KeyEvent;)Z"/>
+<method name="onTouchEvent" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="onMeasure" type="(II)V"/>
+<method name="onSizeChanged" type="(IIII)V"/>
+<method name="G" type="()Lcom/amap/api/mapcore2d/bi;"/>
+<method name="onDraw" type="(Landroid/graphics/Canvas;)V"/>
+<method name="b" type="(F)V"/>
+<method name="H" type="()F"/>
+<method name="I" type="()V"/>
+<method name="onDown" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="onFling" type="(Landroid/view/MotionEvent;Landroid/view/MotionEvent;FF)Z"/>
+<method name="onLongPress" type="(Landroid/view/MotionEvent;)V"/>
+<method name="onScroll" type="(Landroid/view/MotionEvent;Landroid/view/MotionEvent;FF)Z"/>
+<method name="onShowPress" type="(Landroid/view/MotionEvent;)V"/>
+<method name="onSingleTapUp" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="a" type="(FF)Z"/>
+<method name="c" type="(F)Z"/>
+<method name="a" type="(Landroid/graphics/Matrix;)Z"/>
+<method name="b" type="(Landroid/graphics/Matrix;)Z"/>
+<method name="a" type="(FLandroid/graphics/PointF;)Z"/>
+<method name="a" type="(Landroid/graphics/PointF;)Z"/>
+<method name="onDoubleTap" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="onDoubleTapEvent" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="onSingleTapConfirmed" type="(Landroid/view/MotionEvent;)Z"/>
+<method name="b" type="(Landroid/graphics/PointF;)Landroid/graphics/PointF;"/>
+<method name="c" type="(Landroid/graphics/PointF;)Landroid/graphics/PointF;"/>
+<method name="J" type="()I"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnCameraChangeListener;)V"/>
+<method name="K" type="()V"/>
+<method name="L" type="()V"/>
+<method name="a" type="(IILcom/amap/api/mapcore2d/aa;)V"/>
+<method name="a" type="(DDLcom/amap/api/mapcore2d/ab;)V"/>
+<method name="a" type="(DDLcom/amap/api/mapcore2d/al;)V"/>
+<method name="b" type="(IILcom/amap/api/mapcore2d/aa;)V"/>
+<method name="b" type="(DDLcom/amap/api/mapcore2d/al;)V"/>
+<method name="M" type="()V"/>
+<method name="N" type="()V"/>
+<method name="O" type="()V"/>
+<method name="P" type="()V"/>
+<method name="Q" type="()Ljava/util/List;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;ZJ)V"/>
+<method name="c" type="(Ljava/lang/String;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/maps2d/AMap$OnMapTouchListener;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/b;)V" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/maps2d/AMap$OnMapLoadedListener;" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/b;)Landroid/content/Context;" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/mapcore2d/ch;" class_method="true"/>
+<method name="f" type="(Lcom/amap/api/mapcore2d/b;)Landroid/view/View;" class_method="true"/>
+<method name="g" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/mapcore2d/bg;" class_method="true"/>
+<method name="h" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/maps2d/AMap$OnMapScreenShotListener;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/b;Lcom/amap/api/maps2d/AMap$OnMapScreenShotListener;)Lcom/amap/api/maps2d/AMap$OnMapScreenShotListener;" class_method="true"/>
+<method name="i" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/maps2d/AMap$OnCameraChangeListener;" class_method="true"/>
+<method name="j" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/maps2d/model/CameraPosition;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/b;ZLcom/amap/api/maps2d/model/CameraPosition;)V" class_method="true"/>
+<method name="k" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/maps2d/AMap$CancelableCallback;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/b;Z)Z" class_method="true"/>
+<method name="l" type="(Lcom/amap/api/mapcore2d/b;)Z" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/b;Lcom/amap/api/maps2d/AMap$CancelableCallback;)Lcom/amap/api/maps2d/AMap$CancelableCallback;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/b;Z)Z" class_method="true"/>
+<method name="m" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/maps2d/model/LatLng;" class_method="true"/>
+<method name="n" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/mapcore2d/s;" class_method="true"/>
+<method name="o" type="(Lcom/amap/api/mapcore2d/b;)Lcom/amap/api/mapcore2d/bh;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bg" super="java/lang/Object">
+<method name="n" type="()V"/>
+<method name="u" type="()V"/>
+<method name="b" type="(Ljava/util/ArrayList;)V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/maps2d/model/MarkerOptions;Lcom/amap/api/mapcore2d/bb;)V"/>
+<method name="v" type="()Lcom/amap/api/mapcore2d/al;"/>
+<method name="q" type="()I"/>
+<method name="w" type="()I"/>
+<method name="f" type="()Lcom/amap/api/mapcore2d/ab;"/>
+<method name="x" type="()Lcom/amap/api/mapcore2d/al;"/>
+<method name="b" type="()Landroid/graphics/Rect;"/>
+<method name="a" type="()Z"/>
+<method name="c" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="e" type="()Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="g" type="()Ljava/lang/String;"/>
+<method name="b" type="(Ljava/lang/String;)V"/>
+<method name="h" type="()Ljava/lang/String;"/>
+<method name="a" type="(Z)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)V"/>
+<method name="y" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="i" type="()Z"/>
+<method name="j" type="()V"/>
+<method name="k" type="()V"/>
+<method name="l" type="()Z"/>
+<method name="b" type="(Z)V"/>
+<method name="m" type="()Z"/>
+<method name="a" type="(FF)V"/>
+<method name="z" type="()F"/>
+<method name="A" type="()F"/>
+<method name="a" type="(F)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/aj;)Z"/>
+<method name="o" type="()I"/>
+<method name="a" type="(Landroid/graphics/Canvas;Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="p" type="()Ljava/lang/Object;"/>
+<method name="d" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="a" type="(I)V"/>
+<method name="r" type="()I"/>
+<method name="a" type="(Ljava/util/ArrayList;)V"/>
+<method name="s" type="()Ljava/util/ArrayList;"/>
+<method name="a" type="(II)V"/>
+<method name="t" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bg;)Ljava/util/concurrent/CopyOnWriteArrayList;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/bg;)I" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bg;I)I" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/bg;)I" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/bg;)Lcom/amap/api/mapcore2d/bb;" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/bg;)I" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bh$e" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;Landroid/graphics/Point;)Landroid/graphics/Point;"/>
+<method name="a" type="(II)Lcom/amap/api/mapcore2d/ad;"/>
+<method name="a" type="(F)F"/>
+<method name="a" type="()I"/>
+<method name="b" type="()I"/>
+</class>
+<class name="com/amap/api/mapcore2d/bl" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="a" type="(Ljava/util/List;)V"/>
+<method name="i" type="()Ljava/util/List;"/>
+<method name="a" type="(F)V"/>
+<method name="d" type="()F"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ak;)Z"/>
+<method name="b" type="(Ljava/util/List;)V"/>
+<method name="k" type="()Ljava/util/List;"/>
+<method name="f" type="()I"/>
+<method name="a" type="()Z"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="b" type="(F)V"/>
+<method name="g" type="()F"/>
+<method name="a" type="(I)V"/>
+<method name="h" type="()I"/>
+<method name="b" type="(I)V"/>
+<method name="j" type="()I"/>
+<method name="l" type="()V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/bm" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="b" type="(Ljava/util/List;)V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="a" type="(Ljava/util/List;)V"/>
+<method name="i" type="()Ljava/util/List;"/>
+<method name="b" type="(F)V"/>
+<method name="g" type="()F"/>
+<method name="b" type="(Z)V"/>
+<method name="j" type="()Z"/>
+<method name="c" type="(Z)V"/>
+<method name="k" type="()Z"/>
+<method name="a" type="(I)V"/>
+<method name="h" type="()I"/>
+<method name="a" type="(F)V"/>
+<method name="d" type="()F"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ak;)Z"/>
+<method name="f" type="()I"/>
+<method name="a" type="()Z"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="l" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/al;Lcom/amap/api/mapcore2d/al;Lcom/amap/api/mapcore2d/al;DI)Lcom/amap/api/mapcore2d/al;"/>
+<method name="a" type="(Ljava/util/List;Ljava/util/List;D)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;Ljava/util/List;Lcom/amap/api/maps2d/model/LatLngBounds$Builder;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/bo" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(Landroid/graphics/Point;)Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)Landroid/graphics/Point;"/>
+<method name="a" type="()Lcom/amap/api/maps2d/model/VisibleRegion;"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/LatLng;)Landroid/graphics/PointF;"/>
+</class>
+<class name="com/amap/api/mapcore2d/bs" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="add" type="(ILjava/lang/Object;)V"/>
+<method name="addAll" type="(Ljava/util/Collection;)Z"/>
+<method name="addAll" type="(ILjava/util/Collection;)Z"/>
+<method name="clear" type="()V"/>
+<method name="contains" type="(Ljava/lang/Object;)Z"/>
+<method name="containsAll" type="(Ljava/util/Collection;)Z"/>
+<method name="get" type="(I)Ljava/lang/Object;"/>
+<method name="indexOf" type="(Ljava/lang/Object;)I"/>
+<method name="isEmpty" type="()Z"/>
+<method name="iterator" type="()Ljava/util/Iterator;"/>
+<method name="lastIndexOf" type="(Ljava/lang/Object;)I"/>
+<method name="listIterator" type="()Ljava/util/ListIterator;"/>
+<method name="listIterator" type="(I)Ljava/util/ListIterator;"/>
+<method name="remove" type="(I)Ljava/lang/Object;"/>
+<method name="remove" type="(Ljava/lang/Object;)Z"/>
+<method name="removeAll" type="(Ljava/util/Collection;)Z"/>
+<method name="retainAll" type="(Ljava/util/Collection;)Z"/>
+<method name="set" type="(ILjava/lang/Object;)Ljava/lang/Object;"/>
+<method name="size" type="()I"/>
+<method name="subList" type="(II)Ljava/util/List;"/>
+<method name="toArray" type="()[Ljava/lang/Object;"/>
+<method name="toArray" type="([Ljava/lang/Object;)[Ljava/lang/Object;"/>
+<method name="add" type="(Ljava/lang/Object;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/bw$a" super="java/lang/Object">
+<method name="a" type="()Lcom/amap/api/mapcore2d/bw$a;"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+<method name="a" type="(Landroid/graphics/Bitmap;)V"/>
+<method name="b" type="()V"/>
+<method name="clone" type="()Ljava/lang/Object;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bw$a;)Landroid/graphics/PointF;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/bw$a;)Landroid/graphics/Bitmap;" class_method="true"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bw;IIIILcom/amap/api/mapcore2d/bw$1;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bw$a;Landroid/graphics/PointF;)Landroid/graphics/PointF;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bw" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/maps2d/model/TileOverlayOptions;Lcom/amap/api/mapcore2d/bx;)V"/>
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="a" type="(F)V"/>
+<method name="d" type="()F"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/aq;)Z"/>
+<method name="f" type="()I"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="b" type="(Z)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bw;III)Ljava/util/ArrayList;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bw;Ljava/util/List;IZ)Z" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/bw;)Lcom/amap/api/mapcore2d/co;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/bw;)Lcom/amap/api/mapcore2d/af;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/bx$a" super="java/lang/Object">
+<method name="compare" type="(Ljava/lang/Object;Ljava/lang/Object;)I"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bx;Lcom/amap/api/mapcore2d/bx$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/by" super="com/amap/api/mapcore2d/j">
+<method name="g" type="()V"/>
+<method name="a" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/bh;Landroid/content/Context;)V"/>
+<method name="a" type="(Ljava/util/ArrayList;)Ljava/util/ArrayList;"/>
+<method name="a" type="(Ljava/util/List;)V"/>
+<method name="h" type="()V"/>
+<method name="a" type="(ZZ)V"/>
+<method name="f" type="()I"/>
+<method name="e" type="()I"/>
+<method name="b" type="(Ljava/util/ArrayList;)Ljava/util/ArrayList;"/>
+</class>
+<class name="com/amap/api/mapcore2d/cd" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(Z)V"/>
+<method name="b" type="(Z)V"/>
+<method name="c" type="(Z)V"/>
+<method name="d" type="(Z)V"/>
+<method name="e" type="(Z)V"/>
+<method name="f" type="(Z)V"/>
+<method name="g" type="(Z)V"/>
+<method name="a" type="(I)V"/>
+<method name="b" type="(I)V"/>
+<method name="a" type="()Z"/>
+<method name="b" type="()Z"/>
+<method name="c" type="()Z"/>
+<method name="d" type="()Z"/>
+<method name="e" type="()Z"/>
+<method name="f" type="()Z"/>
+<method name="g" type="()I"/>
+<method name="h" type="()I"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cd;)Z" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/cd;)Lcom/amap/api/mapcore2d/af;" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/cd;)Z" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/cd;)Z" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/cd;)Z" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/ci$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ci;)V"/>
+<method name="onClick" type="(Landroid/view/View;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ci$2" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ci;)V"/>
+<method name="onClick" type="(Landroid/view/View;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ci$3" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ci;)V"/>
+<method name="onTouch" type="(Landroid/view/View;Landroid/view/MotionEvent;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/ci$4" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ci;)V"/>
+<method name="onTouch" type="(Landroid/view/View;Landroid/view/MotionEvent;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$c$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cl$c;Ljava/lang/Runnable;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$c" super="java/lang/Object">
+<method name="execute" type="(Ljava/lang/Runnable;)V"/>
+<method name="a" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cm;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cl$e" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/cm;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/cm" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="newThread" type="(Ljava/lang/Runnable;)Ljava/lang/Thread;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dl" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="b" type="()Landroid/content/ContentValues;"/>
+<method name="a" type="(Landroid/database/Cursor;)Lcom/amap/api/mapcore2d/dm;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dm;)V"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(I)Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="b" type="(Landroid/database/Cursor;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/do" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="b" type="()Landroid/content/ContentValues;"/>
+<method name="a" type="(Landroid/database/Cursor;)Lcom/amap/api/mapcore2d/dc;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dc;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="a" type="(Ljava/lang/String;)Ljava/lang/String;" class_method="true"/>
+<method name="c" type="()Ljava/lang/String;" class_method="true"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="b" type="(Landroid/database/Cursor;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dr" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="b" type="()Landroid/content/ContentValues;"/>
+<method name="a" type="(Landroid/database/Cursor;)Lcom/amap/api/mapcore2d/ds;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ds;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="b" type="(Landroid/database/Cursor;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/dw" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/dv;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dx;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/dx;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dx" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="run" type="()V"/>
+<method name="a" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dy$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/dy;Landroid/content/Context;Lcom/amap/api/mapcore2d/dc;Z)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dy$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="a" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/dy" super="java/lang/Object">
+<method name="a" type="()Ljava/util/concurrent/ExecutorService;" class_method="true"/>
+<method name="a" type="(Landroid/content/Context;Lcom/amap/api/mapcore2d/dc;)Lcom/amap/api/mapcore2d/dy;" class_method="true"/>
+<method name="b" type="()Lcom/amap/api/mapcore2d/dy;" class_method="true"/>
+<method name="a" type="(Ljava/lang/Throwable;Ljava/lang/String;Ljava/lang/String;)V" class_method="true"/>
+<method name="c" type="()V" class_method="true"/>
+<method name="uncaughtException" type="(Ljava/lang/Thread;Ljava/lang/Throwable;)V"/>
+<method name="b" type="(Ljava/lang/Throwable;Ljava/lang/String;Ljava/lang/String;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/dy;)Landroid/content/Context;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/ea$a" super="java/lang/Object">
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ea;Lcom/amap/api/mapcore2d/dk;Lcom/amap/api/mapcore2d/ea$1;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ec$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ec;Lcom/amap/api/mapcore2d/dk;)V"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ee$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ee;Lcom/amap/api/mapcore2d/dk;)V"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ef$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(ILandroid/content/Context;Ljava/lang/Throwable;Ljava/lang/String;Ljava/lang/String;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ef$2" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/content/Context;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ek$b" super="java/lang/Object">
+<method name="a" type="(I)Ljava/io/InputStream;"/>
+<method name="close" type="()V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ek;Ljava/lang/String;J[Ljava/io/InputStream;[JLcom/amap/api/mapcore2d/el;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/ek" super="java/lang/Object">
+<method name="a" type="(Lcom/amap/api/mapcore2d/en;)V"/>
+<method name="a" type="(Ljava/io/File;IIJ)Lcom/amap/api/mapcore2d/ek;" class_method="true"/>
+<method name="a" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/ek$b;"/>
+<method name="b" type="(Ljava/lang/String;)Lcom/amap/api/mapcore2d/ek$a;"/>
+<method name="c" type="(Ljava/lang/String;)Z"/>
+<method name="a" type="()Z"/>
+<method name="b" type="()V"/>
+<method name="close" type="()V"/>
+<method name="c" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek;)Ljava/io/Writer;" class_method="true"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/ek;)V" class_method="true"/>
+<method name="c" type="(Lcom/amap/api/mapcore2d/ek;)Z" class_method="true"/>
+<method name="d" type="(Lcom/amap/api/mapcore2d/ek;)V" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek;I)I" class_method="true"/>
+<method name="e" type="(Lcom/amap/api/mapcore2d/ek;)I" class_method="true"/>
+<method name="f" type="(Lcom/amap/api/mapcore2d/ek;)Ljava/io/File;" class_method="true"/>
+<method name="d" type="()Ljava/io/OutputStream;" class_method="true"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ek;Lcom/amap/api/mapcore2d/ek$a;Z)V" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/el" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/ek;)V"/>
+<method name="a" type="()Ljava/lang/Void;"/>
+<method name="call" type="()Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/eo" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Ljava/io/InputStream;Ljava/nio/charset/Charset;)V"/>
+<method name="&lt;init&gt;" type="(Ljava/io/InputStream;ILjava/nio/charset/Charset;)V"/>
+<method name="close" type="()V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/eo;)Ljava/nio/charset/Charset;" class_method="true"/>
+</class>
+<class name="com/amap/api/mapcore2d/ev" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="getAcceptedIssuers" type="()[Ljava/security/cert/X509Certificate;"/>
+<method name="checkClientTrusted" type="([Ljava/security/cert/X509Certificate;Ljava/lang/String;)V"/>
+<method name="checkServerTrusted" type="([Ljava/security/cert/X509Certificate;Ljava/lang/String;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/g" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="onLocationChanged" type="(Landroid/location/Location;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/i" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/h;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/k" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/j;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/l" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/j;)V"/>
+<method name="run" type="()V"/>
+</class>
+<class name="com/amap/api/mapcore2d/n$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/n$a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(IIII)V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/n$a;)V"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/n$a;"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="hashCode" type="()I"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+<method name="clone" type="()Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/mapcore2d/q$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/q;Ljava/util/List;)V"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/w" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/b;)V"/>
+<method name="a" type="()Z"/>
+<method name="b" type="()V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="a" type="(F)V"/>
+<method name="d" type="()F"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ak;)Z"/>
+<method name="f" type="()I"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="g" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="a" type="(D)V"/>
+<method name="h" type="()D"/>
+<method name="b" type="(F)V"/>
+<method name="i" type="()F"/>
+<method name="a" type="(I)V"/>
+<method name="j" type="()I"/>
+<method name="b" type="(I)V"/>
+<method name="k" type="()I"/>
+<method name="l" type="()V"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/LatLng;)Z"/>
+</class>
+<class name="com/amap/api/mapcore2d/x$1" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/x;)V"/>
+<method name="onClick" type="(Landroid/view/View;)V"/>
+</class>
+<class name="com/amap/api/mapcore2d/x$2" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/mapcore2d/x;)V"/>
+<method name="onTouch" type="(Landroid/view/View;Landroid/view/MotionEvent;)Z"/>
+</class>
+<class name="com/amap/api/maps2d/a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/AMapOptions" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="logoPosition" type="(I)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="zOrderOnTop" type="(Z)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="mapType" type="(I)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="camera" type="(Lcom/amap/api/maps2d/model/CameraPosition;)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="scaleControlsEnabled" type="(Z)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="zoomControlsEnabled" type="(Z)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="compassEnabled" type="(Z)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="scrollGesturesEnabled" type="(Z)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="zoomGesturesEnabled" type="(Z)Lcom/amap/api/maps2d/AMapOptions;"/>
+<method name="getLogoPosition" type="()I"/>
+<method name="getZOrderOnTop" type="()Ljava/lang/Boolean;"/>
+<method name="getMapType" type="()I"/>
+<method name="getCamera" type="()Lcom/amap/api/maps2d/model/CameraPosition;"/>
+<method name="getScaleControlsEnabled" type="()Ljava/lang/Boolean;"/>
+<method name="getZoomControlsEnabled" type="()Ljava/lang/Boolean;"/>
+<method name="getCompassEnabled" type="()Ljava/lang/Boolean;"/>
+<method name="getScrollGesturesEnabled" type="()Ljava/lang/Boolean;"/>
+<method name="getZoomGesturesEnabled" type="()Ljava/lang/Boolean;"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/a" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/b" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/CameraPosition;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/CameraPosition;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/BitmapDescriptor" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Landroid/graphics/Bitmap;)V"/>
+<method name="clone" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getBitmap" type="()Landroid/graphics/Bitmap;"/>
+<method name="getWidth" type="()I"/>
+<method name="getHeight" type="()I"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="recycle" type="()V"/>
+<method name="clone" type="()Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/c" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/CameraPosition" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(Lcom/amap/api/maps2d/model/LatLng;FFF)V"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="describeContents" type="()I"/>
+<method name="hashCode" type="()I"/>
+<method name="fromLatLngZoom" type="(Lcom/amap/api/maps2d/model/LatLng;F)Lcom/amap/api/maps2d/model/CameraPosition;" class_method="true"/>
+<method name="builder" type="()Lcom/amap/api/maps2d/model/CameraPosition$Builder;" class_method="true"/>
+<method name="builder" type="(Lcom/amap/api/maps2d/model/CameraPosition;)Lcom/amap/api/maps2d/model/CameraPosition$Builder;" class_method="true"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+</class>
+<class name="com/amap/api/maps2d/model/CircleOptions" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="describeContents" type="()I"/>
+<method name="center" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="radius" type="(D)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="strokeWidth" type="(F)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="strokeColor" type="(I)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="fillColor" type="(I)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="zIndex" type="(F)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="visible" type="(Z)Lcom/amap/api/maps2d/model/CircleOptions;"/>
+<method name="getCenter" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="getRadius" type="()D"/>
+<method name="getStrokeWidth" type="()F"/>
+<method name="getStrokeColor" type="()I"/>
+<method name="getFillColor" type="()I"/>
+<method name="getZIndex" type="()F"/>
+<method name="isVisible" type="()Z"/>
+</class>
+<class name="com/amap/api/maps2d/model/d" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/e" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLngBounds;Landroid/os/Parcel;I)V" class_method="true"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/f" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/g" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/GroundOverlayOptions" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(ILandroid/os/IBinder;Lcom/amap/api/maps2d/model/LatLng;FFLcom/amap/api/maps2d/model/LatLngBounds;FFZFFF)V"/>
+<method name="&lt;init&gt;" type="()V"/>
+<method name="image" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="anchor" type="(FF)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="position" type="(Lcom/amap/api/maps2d/model/LatLng;F)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="position" type="(Lcom/amap/api/maps2d/model/LatLng;FF)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="positionFromBounds" type="(Lcom/amap/api/maps2d/model/LatLngBounds;)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="bearing" type="(F)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="zIndex" type="(F)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="visible" type="(Z)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="transparency" type="(F)Lcom/amap/api/maps2d/model/GroundOverlayOptions;"/>
+<method name="getImage" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getLocation" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="getWidth" type="()F"/>
+<method name="getHeight" type="()F"/>
+<method name="getBounds" type="()Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="getBearing" type="()F"/>
+<method name="getZIndex" type="()F"/>
+<method name="getTransparency" type="()F"/>
+<method name="getAnchorU" type="()F"/>
+<method name="getAnchorV" type="()F"/>
+<method name="isVisible" type="()Z"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/h" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/i" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/j" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/Tile;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/Tile;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/k" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/l" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="a" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/VisibleRegion;"/>
+<method name="a" type="(I)[Lcom/amap/api/maps2d/model/VisibleRegion;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/VisibleRegion;Landroid/os/Parcel;I)V" class_method="true"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/LatLng" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(DD)V"/>
+<method name="clone" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="hashCode" type="()I"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="clone" type="()Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/LatLngBounds" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(ILcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="a" type="()I"/>
+<method name="builder" type="()Lcom/amap/api/maps2d/model/LatLngBounds$Builder;" class_method="true"/>
+<method name="contains" type="(Lcom/amap/api/maps2d/model/LatLng;)Z"/>
+<method name="contains" type="(Lcom/amap/api/maps2d/model/LatLngBounds;)Z"/>
+<method name="intersects" type="(Lcom/amap/api/maps2d/model/LatLngBounds;)Z"/>
+<method name="including" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/LatLngBounds;"/>
+<method name="hashCode" type="()I"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="a" type="(DD)D" class_method="true"/>
+<method name="b" type="(DD)D" class_method="true"/>
+</class>
+<class name="com/amap/api/maps2d/model/MarkerOptions" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="icons" type="(Ljava/util/ArrayList;)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="getIcons" type="()Ljava/util/ArrayList;"/>
+<method name="period" type="(I)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="getPeriod" type="()I"/>
+<method name="position" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="icon" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="anchor" type="(FF)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="title" type="(Ljava/lang/String;)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="snippet" type="(Ljava/lang/String;)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="draggable" type="(Z)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="visible" type="(Z)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="setGps" type="(Z)Lcom/amap/api/maps2d/model/MarkerOptions;"/>
+<method name="getPosition" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="getTitle" type="()Ljava/lang/String;"/>
+<method name="getSnippet" type="()Ljava/lang/String;"/>
+<method name="getIcon" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getAnchorU" type="()F"/>
+<method name="getAnchorV" type="()F"/>
+<method name="isDraggable" type="()Z"/>
+<method name="isVisible" type="()Z"/>
+<method name="isGps" type="()Z"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/MyLocationStyle" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="myLocationIcon" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)Lcom/amap/api/maps2d/model/MyLocationStyle;"/>
+<method name="anchor" type="(FF)Lcom/amap/api/maps2d/model/MyLocationStyle;"/>
+<method name="radiusFillColor" type="(I)Lcom/amap/api/maps2d/model/MyLocationStyle;"/>
+<method name="strokeColor" type="(I)Lcom/amap/api/maps2d/model/MyLocationStyle;"/>
+<method name="strokeWidth" type="(F)Lcom/amap/api/maps2d/model/MyLocationStyle;"/>
+<method name="getMyLocationIcon" type="()Lcom/amap/api/maps2d/model/BitmapDescriptor;"/>
+<method name="getAnchorU" type="()F"/>
+<method name="getAnchorV" type="()F"/>
+<method name="getRadiusFillColor" type="()I"/>
+<method name="getStrokeColor" type="()I"/>
+<method name="getStrokeWidth" type="()F"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/MyLocationStyleCreator" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Lcom/amap/api/maps2d/model/MyLocationStyle;"/>
+<method name="newArray" type="(I)[Lcom/amap/api/maps2d/model/MyLocationStyle;"/>
+<method name="newArray" type="(I)[Ljava/lang/Object;"/>
+<method name="createFromParcel" type="(Landroid/os/Parcel;)Ljava/lang/Object;"/>
+</class>
+<class name="com/amap/api/maps2d/model/PolygonOptions" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="add" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="add" type="([Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="addAll" type="(Ljava/lang/Iterable;)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="strokeWidth" type="(F)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="strokeColor" type="(I)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="fillColor" type="(I)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="zIndex" type="(F)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="visible" type="(Z)Lcom/amap/api/maps2d/model/PolygonOptions;"/>
+<method name="getPoints" type="()Ljava/util/List;"/>
+<method name="getStrokeWidth" type="()F"/>
+<method name="getStrokeColor" type="()I"/>
+<method name="getFillColor" type="()I"/>
+<method name="getZIndex" type="()F"/>
+<method name="isVisible" type="()Z"/>
+</class>
+<class name="com/amap/api/maps2d/model/PolylineOptions" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="add" type="(Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="add" type="([Lcom/amap/api/maps2d/model/LatLng;)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="addAll" type="(Ljava/lang/Iterable;)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="width" type="(F)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="color" type="(I)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="zIndex" type="(F)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="visible" type="(Z)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="geodesic" type="(Z)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="getPoints" type="()Ljava/util/List;"/>
+<method name="getWidth" type="()F"/>
+<method name="getColor" type="()I"/>
+<method name="getZIndex" type="()F"/>
+<method name="isVisible" type="()Z"/>
+<method name="setDottedLine" type="(Z)Lcom/amap/api/maps2d/model/PolylineOptions;"/>
+<method name="isDottedLine" type="()Z"/>
+<method name="isGeodesic" type="()Z"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/Tile" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(III[B)V"/>
+<method name="&lt;init&gt;" type="(II[B)V"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+</class>
+<class name="com/amap/api/maps2d/model/TileOverlayOptions" super="java/lang/Object">
+<method name="&lt;init&gt;" type="()V"/>
+<method name="&lt;init&gt;" type="(ILandroid/os/IBinder;ZF)V"/>
+<method name="describeContents" type="()I"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="tileProvider" type="(Lcom/amap/api/maps2d/model/TileProvider;)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="zIndex" type="(F)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="visible" type="(Z)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="memCacheSize" type="(I)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="diskCacheSize" type="(I)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="diskCacheDir" type="(Ljava/lang/String;)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="memoryCacheEnabled" type="(Z)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="diskCacheEnabled" type="(Z)Lcom/amap/api/maps2d/model/TileOverlayOptions;"/>
+<method name="getTileProvider" type="()Lcom/amap/api/maps2d/model/TileProvider;"/>
+<method name="getZIndex" type="()F"/>
+<method name="isVisible" type="()Z"/>
+<method name="getMemCacheSize" type="()I"/>
+<method name="getDiskCacheSize" type="()I"/>
+<method name="getDiskCacheDir" type="()Ljava/lang/String;"/>
+<method name="getMemoryCacheEnabled" type="()Z"/>
+<method name="getDiskCacheEnabled" type="()Z"/>
+</class>
+<class name="com/amap/api/maps2d/model/UrlTileProvider" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(II)V"/>
+<method name="getTileUrl" type="(III)Ljava/net/URL;"/>
+<method name="getTile" type="(III)Lcom/amap/api/maps2d/model/Tile;"/>
+<method name="getTileWidth" type="()I"/>
+<method name="getTileHeight" type="()I"/>
+</class>
+<class name="com/amap/api/maps2d/model/VisibleRegion" super="java/lang/Object">
+<method name="&lt;init&gt;" type="(ILcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLngBounds;)V"/>
+<method name="&lt;init&gt;" type="(Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLng;Lcom/amap/api/maps2d/model/LatLngBounds;)V"/>
+<method name="writeToParcel" type="(Landroid/os/Parcel;I)V"/>
+<method name="describeContents" type="()I"/>
+<method name="hashCode" type="()I"/>
+<method name="a" type="()I"/>
+<method name="equals" type="(Ljava/lang/Object;)Z"/>
+<method name="toString" type="()Ljava/lang/String;"/>
+</class>
+<interface name="com/amap/api/mapcore2d/af">
+<method name="b" type="()Lcom/amap/api/mapcore2d/bd;"/>
+<method name="c" type="()I"/>
+<method name="d" type="()I"/>
+<method name="e" type="()Landroid/view/View;"/>
+<method name="a" type="(Z)V"/>
+<method name="a" type="(Landroid/location/Location;)V"/>
+<method name="a" type="(Ljava/lang/String;)Z"/>
+<method name="b" type="(Ljava/lang/String;)Z"/>
+<method name="f" type="()F"/>
+<method name="g" type="()Lcom/amap/api/maps2d/model/CameraPosition;"/>
+<method name="h" type="()F"/>
+<method name="i" type="()F"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/u;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;Lcom/amap/api/maps2d/AMap$CancelableCallback;)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/u;JLcom/amap/api/maps2d/AMap$CancelableCallback;)V"/>
+<method name="j" type="()V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/PolylineOptions;)Lcom/amap/api/mapcore2d/an;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/CircleOptions;)Lcom/amap/api/mapcore2d/ag;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/PolygonOptions;)Lcom/amap/api/mapcore2d/am;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/MarkerOptions;)Lcom/amap/api/maps2d/model/Marker;"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/MarkerOptions;)Lcom/amap/api/mapcore2d/bg;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/GroundOverlayOptions;)Lcom/amap/api/mapcore2d/ah;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/TileOverlayOptions;)Lcom/amap/api/maps2d/model/TileOverlay;"/>
+<method name="k" type="()V"/>
+<method name="l" type="()I"/>
+<method name="b" type="(I)V"/>
+<method name="m" type="()Z"/>
+<method name="b" type="(Z)V"/>
+<method name="n" type="()Z"/>
+<method name="c" type="(Z)V"/>
+<method name="a" type="(F)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/MyLocationStyle;)V"/>
+<method name="p" type="()Landroid/location/Location;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/LocationSource;)V"/>
+<method name="q" type="()Lcom/amap/api/mapcore2d/ar;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnCameraChangeListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapTouchListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapLongClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMarkerClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMarkerDragListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapLoadedListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnInfoWindowClickListener;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$InfoWindowAdapter;)V"/>
+<method name="a" type="(DDLcom/amap/api/mapcore2d/ab;)V"/>
+<method name="a" type="(IILcom/amap/api/mapcore2d/aa;)V"/>
+<method name="b" type="(DDLcom/amap/api/mapcore2d/al;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMyLocationChangeListener;)V"/>
+<method name="d" type="(Z)V"/>
+<method name="e" type="(Z)V"/>
+<method name="f" type="(Z)V"/>
+<method name="g" type="(Z)V"/>
+<method name="v" type="()V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMap$OnMapScreenShotListener;)V"/>
+<method name="c" type="(I)V"/>
+<method name="d" type="(I)V"/>
+<method name="w" type="()F"/>
+<method name="y" type="()V"/>
+<method name="z" type="()V"/>
+<method name="r" type="()Lcom/amap/api/mapcore2d/ao;"/>
+<method name="a" type="()Lcom/amap/api/mapcore2d/bh;"/>
+<method name="s" type="()Lcom/amap/api/mapcore2d/bn;"/>
+<method name="P" type="()V"/>
+<method name="Q" type="()Ljava/util/List;"/>
+<method name="c" type="(Ljava/lang/String;)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/ai">
+<method name="a" type="()Lcom/amap/api/mapcore2d/af;"/>
+<method name="a" type="(Landroid/app/Activity;Lcom/amap/api/maps2d/AMapOptions;Landroid/os/Bundle;)V"/>
+<method name="a" type="(Landroid/content/Context;)V"/>
+<method name="a" type="(Lcom/amap/api/maps2d/AMapOptions;)V"/>
+<method name="a" type="(Landroid/os/Bundle;)V"/>
+<method name="a" type="(Landroid/view/LayoutInflater;Landroid/view/ViewGroup;Landroid/os/Bundle;)Landroid/view/View;"/>
+<method name="b" type="()V"/>
+<method name="c" type="()V"/>
+<method name="d" type="()V"/>
+<method name="e" type="()V"/>
+<method name="f" type="()V"/>
+<method name="b" type="(Landroid/os/Bundle;)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/aj">
+<method name="a" type="()Z"/>
+<method name="b" type="()Landroid/graphics/Rect;"/>
+<method name="c" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="d" type="()Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="e" type="()Ljava/lang/String;"/>
+<method name="f" type="()Lcom/amap/api/mapcore2d/ab;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+<method name="a" type="(Ljava/lang/String;)V"/>
+<method name="g" type="()Ljava/lang/String;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/BitmapDescriptor;)V"/>
+<method name="a" type="(FF)V"/>
+<method name="b" type="(Ljava/lang/String;)V"/>
+<method name="h" type="()Ljava/lang/String;"/>
+<method name="a" type="(Z)V"/>
+<method name="i" type="()Z"/>
+<method name="j" type="()V"/>
+<method name="k" type="()V"/>
+<method name="l" type="()Z"/>
+<method name="b" type="(Z)V"/>
+<method name="m" type="()Z"/>
+<method name="n" type="()V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/aj;)Z"/>
+<method name="o" type="()I"/>
+<method name="a" type="(Landroid/graphics/Canvas;Lcom/amap/api/mapcore2d/af;)V"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="p" type="()Ljava/lang/Object;"/>
+<method name="q" type="()I"/>
+<method name="a" type="(F)V"/>
+<method name="a" type="(I)V"/>
+<method name="r" type="()I"/>
+<method name="a" type="(Ljava/util/ArrayList;)V"/>
+<method name="s" type="()Ljava/util/ArrayList;"/>
+<method name="a" type="(II)V"/>
+<method name="t" type="()Z"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/ak">
+<method name="b" type="()V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="a" type="(F)V"/>
+<method name="d" type="()F"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/ak;)Z"/>
+<method name="f" type="()I"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="l" type="()V"/>
+<method name="a" type="()Z"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/ao">
+<method name="a" type="(Landroid/graphics/Point;)Lcom/amap/api/maps2d/model/LatLng;"/>
+<method name="a" type="(Lcom/amap/api/maps2d/model/LatLng;)Landroid/graphics/Point;"/>
+<method name="b" type="(Lcom/amap/api/maps2d/model/LatLng;)Landroid/graphics/PointF;"/>
+<method name="a" type="()Lcom/amap/api/maps2d/model/VisibleRegion;"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/ap">
+</interface>
+<interface name="com/amap/api/mapcore2d/aq">
+<method name="a" type="()V"/>
+<method name="b" type="()V"/>
+<method name="c" type="()Ljava/lang/String;"/>
+<method name="a" type="(F)V"/>
+<method name="d" type="()F"/>
+<method name="a" type="(Z)V"/>
+<method name="e" type="()Z"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/aq;)Z"/>
+<method name="f" type="()I"/>
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+<method name="b" type="(Z)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/ar">
+<method name="a" type="(Z)V"/>
+<method name="b" type="(Z)V"/>
+<method name="c" type="(Z)V"/>
+<method name="d" type="(Z)V"/>
+<method name="e" type="(Z)V"/>
+<method name="f" type="(Z)V"/>
+<method name="g" type="(Z)V"/>
+<method name="a" type="(I)V"/>
+<method name="b" type="(I)V"/>
+<method name="a" type="()Z"/>
+<method name="b" type="()Z"/>
+<method name="c" type="()Z"/>
+<method name="d" type="()Z"/>
+<method name="e" type="()Z"/>
+<method name="f" type="()Z"/>
+<method name="g" type="()I"/>
+<method name="h" type="()I"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/bi$b">
+<method name="a" type="(FF)Z"/>
+<method name="a" type="(Landroid/graphics/Matrix;)Z"/>
+<method name="c" type="(F)Z"/>
+<method name="b" type="(Landroid/graphics/Matrix;)Z"/>
+<method name="a" type="(Landroid/graphics/PointF;)Z"/>
+<method name="a" type="(FLandroid/graphics/PointF;)Z"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/bn">
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;Landroid/graphics/Point;)Landroid/graphics/Point;"/>
+<method name="a" type="(II)Lcom/amap/api/mapcore2d/ad;"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/br$a">
+<method name="N" type="()V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/cc">
+<method name="a" type="(Lcom/amap/api/mapcore2d/ad;)V"/>
+<method name="b" type="()V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/cg">
+<method name="a" type="(ZZ)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/dp">
+<method name="b" type="()Landroid/content/ContentValues;"/>
+<method name="b" type="(Landroid/database/Cursor;)Ljava/lang/Object;"/>
+<method name="a" type="(Ljava/lang/Object;)V"/>
+<method name="a" type="()Ljava/lang/String;"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/dx$a">
+<method name="a" type="(Lcom/amap/api/mapcore2d/dx;)V"/>
+<method name="b" type="(Lcom/amap/api/mapcore2d/dx;)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/en">
+<method name="a" type="(Ljava/lang/String;)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/er">
+<method name="a" type="()V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/eu">
+<method name="a" type="()V"/>
+<method name="a" type="([B)V"/>
+<method name="a" type="(Lcom/amap/api/mapcore2d/cu;)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/p">
+<method name="a" type="(Landroid/graphics/Canvas;)V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/t$a">
+<method name="O" type="()V"/>
+</interface>
+<interface name="com/amap/api/mapcore2d/v$a">
+<method name="M" type="()V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$CancelableCallback">
+<method name="onFinish" type="()V"/>
+<method name="onCancel" type="()V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$InfoWindowAdapter">
+<method name="getInfoWindow" type="(Lcom/amap/api/maps2d/model/Marker;)Landroid/view/View;"/>
+<method name="getInfoContents" type="(Lcom/amap/api/maps2d/model/Marker;)Landroid/view/View;"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnCameraChangeListener">
+<method name="onCameraChange" type="(Lcom/amap/api/maps2d/model/CameraPosition;)V"/>
+<method name="onCameraChangeFinish" type="(Lcom/amap/api/maps2d/model/CameraPosition;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnInfoWindowClickListener">
+<method name="onInfoWindowClick" type="(Lcom/amap/api/maps2d/model/Marker;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMapClickListener">
+<method name="onMapClick" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMapLoadedListener">
+<method name="onMapLoaded" type="()V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMapLongClickListener">
+<method name="onMapLongClick" type="(Lcom/amap/api/maps2d/model/LatLng;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMapScreenShotListener">
+<method name="onMapScreenShot" type="(Landroid/graphics/Bitmap;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMapTouchListener">
+<method name="onTouch" type="(Landroid/view/MotionEvent;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMarkerClickListener">
+<method name="onMarkerClick" type="(Lcom/amap/api/maps2d/model/Marker;)Z"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMarkerDragListener">
+<method name="onMarkerDragStart" type="(Lcom/amap/api/maps2d/model/Marker;)V"/>
+<method name="onMarkerDrag" type="(Lcom/amap/api/maps2d/model/Marker;)V"/>
+<method name="onMarkerDragEnd" type="(Lcom/amap/api/maps2d/model/Marker;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/AMap$OnMyLocationChangeListener">
+<method name="onMyLocationChange" type="(Landroid/location/Location;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/LocationSource$OnLocationChangedListener">
+<method name="onLocationChanged" type="(Landroid/location/Location;)V"/>
+</interface>
+<interface name="com/amap/api/maps2d/LocationSource">
+<method name="activate" type="(Lcom/amap/api/maps2d/LocationSource$OnLocationChangedListener;)V"/>
+<method name="deactivate" type="()V"/>
+</interface>
+<interface name="com/amap/api/maps2d/model/TileProvider">
+<method name="getTile" type="(III)Lcom/amap/api/maps2d/model/Tile;"/>
+<method name="getTileWidth" type="()I"/>
+<method name="getTileHeight" type="()I"/>
+</interface>
+</signatures>

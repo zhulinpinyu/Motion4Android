@@ -1,0 +1,34 @@
+# -*- coding: utf-8 -*-
+$:.unshift("/Library/RubyMotion/lib")
+require 'motion/project/template/android'
+
+begin
+  require 'bundler'
+  Bundler.require
+rescue LoadError
+end
+
+Motion::Project::App.setup do |app|
+  # Use `rake config' to see complete project settings.
+  app.name = 'AmapDemo'
+  app.api_version='16'
+  app.package = 'com.zlpy.amapdemo'
+  app.main_activity = 'MainActivity'
+
+  app.permissions = [:write_external_storage,
+                     :access_coarse_location,
+                     :access_network_state,
+                     :access_fine_location,
+                     :read_phone_state,
+                     :change_wifi_state,
+                     :access_wifi_state,
+                     :change_configuration,
+                     :write_settings
+                     ]
+  app.manifest.child('application') do |application|
+    application.add_child('meta-data').update('android:name' => 'com.amap.api.v2.apikey',
+                                              'android:value' => '07faa25eee9003828e8cc6c16fb88a19')
+  end
+
+  app.vendor_project jar: 'vendor/Android_2DMapApi_V2.4.1.jar'
+end
