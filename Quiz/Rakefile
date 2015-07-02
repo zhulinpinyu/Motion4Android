@@ -16,4 +16,11 @@ Motion::Project::App.setup do |app|
   app.main_activity = 'HomeActivity'
   app.sub_activities = ['FormActivity']
   #app.theme = '@android:style/Theme.Holo.Light'
+
+  app.manifest.child("application") do |application|
+    application['android:theme'] = '@android:style/Theme.Holo.Light'
+    application.add_child('meta-data').update('android:name' => 'com.amap.api.v2.apikey',
+                                              'android:value' => 'Key Value')
+    #application.children('meta-data')
+  end
 end
